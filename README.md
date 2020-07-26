@@ -5,21 +5,21 @@ This repository contains a morphological analyzer for this language.
 The analyzer is a FST that produces all possible segmentations and tagging sequences in a word-by-word fashion.
 
 
-## Requirements
-You will only need 
+
+
 
 ## Usage
 First, compile the FST from *foma_files* directory
 
 ```bash
-foma -f analyzer.foma
+xfst -f analyzer.foma
 ```
 
 The analyzer reads and writes to stdin/stdout.
 The text must be in one-word-per-line format.
 
 ```bash
-cat sample-input.txt | flookup morph_shk.fst
+cat sample-input.txt | lookup morph_shk.fst
 ```
 
 
