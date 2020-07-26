@@ -6,7 +6,7 @@ The analyzer is a FST that produces all possible segmentations and tagging seque
 
 
 ## Requirements
-You will only need [foma](https://fomafst.github.io/)
+You will only need 
 
 ## Usage
 First, compile the FST from *foma_files* directory
