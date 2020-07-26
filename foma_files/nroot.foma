@@ -1,7 +1,7 @@
 # Noun roots
 
 define NRoot [
- [ "manxanteo[NRoot]" : {manxanteo}]
+  [ "manxanteo[NRoot]" : {manxanteo}]
 | [ "manxanteó[NRoot.Voc]" : {manxanteó}]
 | [ "tsoáhua[NRoot]" : {tsoáhua}]
 | [ "tsoahua[NRoot]" : {tsoahua}]
