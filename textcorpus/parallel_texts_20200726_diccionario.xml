@@ -1,0 +1,10 @@
+<parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../HNTAshaninka/ParallelCorpus/parallel_texts.xsd">
+    <text id="0.1">
+        <sentence lang="shk">Aínbo yácatara nocon huáata iqui.</sentence>
+        <sentence lang="es">La mujer que está sentada es mi tía materna.</sentence>
+    </text>
+    <text id="0.2">
+        <sentence lang="shk">Ja yácatatonra ea óinai.</sentence>
+        <sentence lang="es">El que está sentado me está mirando.</sentence>
+    </text>
+</parallel>
