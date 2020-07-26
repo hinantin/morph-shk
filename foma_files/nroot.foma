@@ -6556,7 +6556,7 @@ define NRoot [
 | [ "tamaxaká[NRoot.Voc]" : {tamaxaká}]
 | [ "iribira[NRoot]" : {iribira}]
 | [ "iribirá[NRoot.Voc]" : {iribirá}]
-| [ "aínbo[NRoot]" : {aínbo}]
+| [ "[=aínbo+gndr@n.m.][NRoot][=female (ES: mujer)]" : {aínbo}]
 | [ "ríbision[NRoot]" : {ríbision}]
 | [ "ribision[NRoot]" : {ribision}]
 | [ "rare[NRoot]" : {rare}]
