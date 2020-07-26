@@ -1,3 +1,13 @@
+<!-- 
+
+@article{lauriout1993diccionario,
+  title={Diccionario shipibo-castellano},
+  author={Lauriout, Erwin and Day, Dwight and Loriot, James},
+  year={1993},
+  publisher={Instituto Ling{\"u}{\'\i}stico de Verano}
+}
+
+-->
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../HNTAshaninka/ParallelCorpus/parallel_texts.xsd">
     <text id="0.1">
         <sentence lang="shk">Aínbo yácatara nocon huáata iqui.</sentence>
