@@ -680,9 +680,13 @@ define NRoot [
 | [ "ostáquia[NRoot]" : {ostáquia}]
 | [ "ostaquia[NRoot]" : {ostaquia}]
 | [ "ostaquiá[NRoot.Voc]" : {ostaquiá}]
-| [ "[=aínboapo][NRoot][=queen (ES: reina)]" : {aínboapo}]
+# -----------------------------------------------
+! 
+| [ "[=aínboapo+~{N:/'woman':aínbo/}{N:/'chief':apo/}+gndr@n.m.][NRoot][=queen (ES: reina)]" : {aínboapo}]
 | [ "ainboapo[NRoot]" : {ainboapo}]
 | [ "ainboapó[NRoot.Voc]" : {ainboapó}]
+# -----------------------------------------------
+! 
 | [ "quírica[NRoot]" : {quírica}]
 | [ "quirica[NRoot]" : {quirica}]
 | [ "quiricá[NRoot.Voc]" : {quiricá}]
