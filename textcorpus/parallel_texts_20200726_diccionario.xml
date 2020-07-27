@@ -30,4 +30,12 @@
         <sentence lang="shk">Nocon huái óroa pecaora, ea náshiai.</sentence>
         <sentence lang="es">Después de cultivar mi chacra, voy a bañarme.</sentence>
     </text>
+    <text id="1.0">
+        <sentence lang="shk">Eara nénoa iqui.</sentence>
+        <sentence lang="es">Yo soy de aquí.</sentence>
+    </text>
+    <text id="1.1">
+        <sentence lang="shk">Jára ónoas̈h jóque.</sentence>
+        <sentence lang="es">El vino de allá</sentence>
+    </text>
 </parallel>
