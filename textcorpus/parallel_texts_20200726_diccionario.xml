@@ -26,4 +26,8 @@
         <sentence lang="shk">Papán yóiara, en átapa béai.</sentence>
         <sentence lang="es">Si papá me manda, yo traigo la gallina.</sentence>
     </text>
+    <text id="0.5">
+        <sentence lang="shk">Nocon huái óroa pecaora, ea náshiai.</sentence>
+        <sentence lang="es">Después de cultivar mi chacra, voy a bañarme.</sentence>
+    </text>
 </parallel>
