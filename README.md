@@ -12,14 +12,21 @@ The analyzer is a FST that produces all possible segmentations and tagging seque
 First, compile the FST from *foma_files* directory
 
 ```bash
-foma -f analyser.foma
+$ foma -f analyser.foma
 ```
 
 The analyzer reads and writes to stdin/stdout.
 The text must be in one-word-per-line format.
 
 ```bash
-cat sample-input.txt | flookup foma_files/morph_shk.fst
+$ echo "ábionbora" | flookup foma_files/morph_shk.fst )
+ábionbora       [NOUN] ábio[NRoot] n[+Erg] bo[+Pl] ra[+Ev]
+ábionbora       [NOUN] ábio[NRoot] n[+Gen] bo[+Pl] ra[+Ev]
+ábionbora       [NOUN] ábio[NRoot] n[+All] bo[+Pl] ra[+Ev]
+ábionbora       [NOUN] ábion[NRoot] bo[+Pl] ra[+Ev]
+
+
+$ cat sample-input.txt | flookup foma_files/morph_shk.fst
 ```
 
 
