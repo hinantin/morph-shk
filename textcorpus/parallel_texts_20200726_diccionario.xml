@@ -8,7 +8,7 @@
 }
 
 -->
-<parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../HNTAshaninka/ParallelCorpus/parallel_texts.xsd">
+<parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
     <text id="0.1">
         <sentence lang="shk">Aínbo yácatara nocon huáata iqui.</sentence>
         <sentence lang="es">La mujer que está sentada es mi tía materna.</sentence>
@@ -18,7 +18,12 @@
         <sentence lang="es">El que está sentado me está mirando.</sentence>
     </text>
     <text id="0.3">
-        <sentence lang="shk">Moátíanronqui Yóashico Incaqui rétecana iqui. Rétea(s̈)honqui huestíora jóní jahuen (s̈)henín síquita iqui.</sentence>
-        <sentence lang="es"/>
+        <sentence lang="shk">Moátíanronqui Yóashico Incaqui rétecana iqui. Réteas̈honqui huestíora jóní jahuen s̈henín síquita iqui.</sentence>
+        <sentence lang="es">Cuentan que antiguamente mataron al Inca Mezquino y que un hombre se pintó con su
+            grasa</sentence>
+    </text>
+    <text id="0.4">
+        <sentence lang="shk">Papán yóiara, en átapa béai.</sentence>
+        <sentence lang="es">Si papá me manda, yo traigo la gallina.</sentence>
     </text>
 </parallel>
