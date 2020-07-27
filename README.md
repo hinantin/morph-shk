@@ -19,7 +19,7 @@ The analyzer reads and writes to stdin/stdout.
 The text must be in one-word-per-line format.
 
 ```bash
-$ echo "ábionbora" | flookup foma_files/morph_shk.fst )
+$ echo "ábionbora" | flookup foma_files/morph_shk.fst 
 ábionbora       [NOUN] ábio[NRoot] n[+Erg] bo[+Pl] ra[+Ev]
 ábionbora       [NOUN] ábio[NRoot] n[+Gen] bo[+Pl] ra[+Ev]
 ábionbora       [NOUN] ábio[NRoot] n[+All] bo[+Pl] ra[+Ev]
