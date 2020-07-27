@@ -40,4 +40,12 @@ SPECIAL CHARACTERS: s̈
         <sentence lang="shk">Jára ónoas̈h jóque.</sentence>
         <sentence lang="es">El vino de allá</sentence>
     </text>
+    <text id="2.1">
+        <sentence lang="shk">Rimámea ápo ábionin jóquetianra noa rároque.</sentence>
+        <sentence lang="es">Cuando el Presidente vino de Lima en avión, nos alegramos.</sentence>
+    </text>
+    <text id="2.2">
+        <sentence lang="shk">Cáshiboainoa ábionbora moa masáti queyóque. Is̈hónbira nato simánanin moa béns̈hoaribacanai.</sentence>
+        <sentence lang="es">Todas las avionetas de Cashibococha se han descompuesto, pero esta semana las van a reparar.</sentence>
+    </text>
 </parallel>
