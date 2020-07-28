@@ -21,8 +21,7 @@ SPECIAL CHARACTERS: s̈
     </text>
     <text id="0.3">
         <sentence lang="shk">Moátíanronqui Yóashico Incaqui rétecana iqui. Réteas̈honqui huestíora jóní jahuen s̈henín síquita iqui.</sentence>
-        <sentence lang="es">Cuentan que antiguamente mataron al Inca Mezquino y que un hombre se pintó con su
-            grasa</sentence>
+        <sentence lang="es">Cuentan que antiguamente mataron al Inca Mezquino y que un hombre se pintó con su grasa</sentence>
     </text>
     <text id="0.4">
         <sentence lang="shk">Papán yóiara, en átapa béai.</sentence>
@@ -51,5 +50,9 @@ SPECIAL CHARACTERS: s̈
     <text id="3.1">
         <sentence lang="shk">Moátianronqui Incánqui jahuen sontárobo as̈hánti ráans̈hon áboanique.</sentence>
         <sentence lang="es">Cuentan que antiguamente, el Inca mandó a sus soldados a que pescaran y los convirtió en manshacos</sentence>
+    </text>
+    <text id="">
+        <sentence lang="shk">Papán piára sarámpinin icas̈h áco banéque.</sentence>
+        <sentence lang="es">Mi primo, el sobrino de papá, tuvo sarampión y se adelgazó.</sentence>
     </text>
 </parallel>
