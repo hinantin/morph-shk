@@ -7274,8 +7274,10 @@ define NRoot [
 | [ "póco[NRoot]" : {póco}]
 | [ "poco[NRoot]" : {poco}]
 | [ "pocó[NRoot.Voc]" : {pocó}]
-| [ "ahuá[NRoot.Voc]" : {ahuá}]
-| [ "ahua[NRoot]" : {ahua}]
+
+| [ "[=ahuá][NRoot.Voc][=tapir (ES: tapir)]" : {ahuá}]
+| [ "[=ahua][NRoot][=tapir (ES: tapir)]" : {ahua}]
+
 | [ "téamis[NRoot]" : {téamis}]
 | [ "teamis[NRoot]" : {teamis}]
 | [ "xéte[NRoot]" : {xéte}]
