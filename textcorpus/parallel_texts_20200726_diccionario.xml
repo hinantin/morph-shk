@@ -7,7 +7,7 @@
   publisher={Instituto Ling{\"u}{\'\i}stico de Verano}
 }
 
-SPECIAL CHARACTERS: s̈ 
+SPECIAL CHARACTERS: s̈
 
 -->
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
@@ -86,5 +86,9 @@ SPECIAL CHARACTERS: s̈
     <text id="8.2">
         <sentence lang="shk">Huapóro quescaribironqui ácoron yamé pícotai.</sentence>
         <sentence lang="es">Dicen que la yacumama también aparece de noche en forma de una lancha.</sentence>
+    </text>
+    <text id="9.1">
+        <sentence lang="shk">Nato jónira moa s̈hoá icá iqui; rámara moa ácoque ísinas̈h</sentence>
+        <sentence lang="es">Antes este hombre era gordo, pero se enfermó y adelgazó.</sentence>
     </text>
 </parallel>
