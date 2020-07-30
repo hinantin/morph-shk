@@ -777,8 +777,10 @@ define NRoot [
 | [ "bóco[NRoot]" : {bóco}]
 | [ "boco[NRoot]" : {boco}]
 | [ "bocó[NRoot.Voc]" : {bocó}]
-| [ "ácoron[NRoot]" : {ácoron}]
-| [ "acoron[NRoot]" : {acoron}]
+
+| [ "[=ácoron][NRoot][= (ES: yacumama)]" : {ácoron}]
+| [ "[=acoron][NRoot][= (ES: yacumama)]" : {acoron}]
+
 | [ "xexón[NRoot]" : {xexón}]
 | [ "xexon[NRoot]" : {xexon}]
 | [ "písa[NRoot]" : {písa}]
