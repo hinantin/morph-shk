@@ -96,7 +96,11 @@ SPECIAL CHARACTERS: s̈
         <sentence lang="es">La boa que papá mató el otro día ya se resecó.</sentence>
     </text>
     <text id="10.1">
-        <sentence lang="shk">Shéna píaitíanra nocon huetsán ácotiri tsácaque.</sentence>
+        <sentence lang="shk">S̈héna píaitíanra nocon huetsán ácotiri tsácaque.</sentence>
         <sentence lang="es">Mientras el pajarito ácotiri comía gusanos, mi hermano lo hirió con una flecha.</sentence>
+    </text>
+    <text id="11.1">
+        <sentence lang="shk">Eara oránshi s̈héas̈h aéique.</sentence>
+        <sentence lang="es">Eructé al lomar una gaseosa.</sentence>
     </text>
 </parallel>
