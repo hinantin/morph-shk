@@ -7537,8 +7537,10 @@ define NRoot [
 | [ "kayatseká[NRoot.Voc]" : {kayatseká}]
 | [ "metotinin[NRoot]" : {metotinin}]
 | [ "kaman[NRoot]" : {kaman}]
-| [ "ahuápa[NRoot]" : {ahuápa}]
-| [ "ahuapa[NRoot]" : {ahuapa}]
+
+| [ "[=ahuápa][NRoot][= (ES: tigrillo)]" : {ahuápa}]
+| [ "[=ahuapa][NRoot][= (ES: tigrillo)]" : {ahuapa}]
+
 | [ "ahuapá[NRoot.Voc]" : {ahuapá}]
 | [ "yonó[NRoot.Voc]" : {yonó}]
 | [ "charánhua[NRoot]" : {charánhua}]
