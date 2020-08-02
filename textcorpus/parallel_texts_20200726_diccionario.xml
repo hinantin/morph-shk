@@ -179,4 +179,8 @@ SPECIAL CHARACTERS: s̈
         <sentence lang="shk">Rámara pápa Iquítoain iqui.</sentence>
         <sentence lang="es">Ahora papá está en Iquitos.</sentence>
     </text>
+    <text id="25.5">
+        <sentence lang="shk">Rámara títa Cacónco iqui.</sentence>
+        <sentence lang="es">Ahora mamá está en Caco.</sentence>
+    </text>
 </parallel>
