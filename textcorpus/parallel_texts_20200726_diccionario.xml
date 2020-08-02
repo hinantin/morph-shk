@@ -165,6 +165,10 @@ SPECIAL CHARACTERS: s̈
     </text>
     <text id="25.1">
         <sentence lang="shk">Máioshiain caíra jóni réocooque tás̈ha tsácaas̈h.</sentence>
-        <sentence lang="es">Mientras iba a Pucallpa, el hombre chocó con una palizada y su canoa se volcó.&gt;</sentence>
+        <sentence lang="es">Mientras iba a Pucallpa, el hombre chocó con una palizada y su canoa se volcó.</sentence>
+    </text>
+    <text id="25.2">
+        <sentence lang="shk">Contámanain yamébi caíra noa Tiróntainoas̈h néteque.</sentence>
+        <sentence lang="es">Cuando viajamos a Contamana，amanecimos en Tiruntán.</sentence>
     </text>
 </parallel>
