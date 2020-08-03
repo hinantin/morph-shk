@@ -6226,8 +6226,10 @@ define NRoot [
 | [ "xexe[NRoot]" : {xexe}]
 | [ "escudo[NRoot]" : {escudo}]
 | [ "escudó[NRoot.Voc]" : {escudó}]
-| [ "ahuín[NRoot]" : {ahuín}]
-| [ "ahuin[NRoot]" : {ahuin}]
+
+| [ "[=ahuín][NRoot][=wife (ES: esposa)]" : {ahuín}]
+| [ "[=ahuin][NRoot][=wife (ES: esposa)]" : {ahuin}]
+
 | [ "cári[NRoot]" : {cári}]
 | [ "cari[NRoot]" : {cari}]
 | [ "carí[NRoot.Voc]" : {carí}]
