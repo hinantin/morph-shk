@@ -415,7 +415,9 @@ define NRoot [
 | [ "xanban[NRoot]" : {xanban}]
 | [ "yóimis[NRoot]" : {yóimis}]
 | [ "yoimis[NRoot]" : {yoimis}]
-| [ "amén[NRoot]" : {amén}]
+
+| [ "[=amén][NRoot][= (ES: ronsoco)]" : {amén}]
+
 | [ "bénooma[NRoot]" : {bénooma}]
 | [ "benooma[NRoot]" : {benooma}]
 | [ "benoomá[NRoot.Voc]" : {benoomá}]
