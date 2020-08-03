@@ -215,4 +215,12 @@ SPECIAL CHARACTERS: s̈
         <sentence lang="shk">Eara Yarínainoas̈h jóque.</sentence>
         <sentence lang="es">He venido de Yarina.</sentence>
     </text>
+    <text id="25.14">
+        <sentence lang="shk">Eara Cacónconias̈h nocóque.</sentence>
+        <sentence lang="es">He llegado de Caco.</sentence>
+    </text>
+    <text id="26.1">
+        <sentence lang="shk">Títa náshíainra, jahuen báque níi meran cáque. </sentence>
+        <sentence lang="es">Mientras la madre se bañaba, su hijo fue al monte.</sentence>
+    </text>
 </parallel>
