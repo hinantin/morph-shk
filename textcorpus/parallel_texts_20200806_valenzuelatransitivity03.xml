@@ -10,8 +10,13 @@
 -->
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
     <text id="1">
-        <sentence lang="shk">Orokinyamawanke.</sentence>
+        <sentence lang="shp">Orokinyamawanke.</sentence>
         <sentence lang="en">(They) did not help (her/him) clear the chacra earlier today.</sentence>
-        <morphology format="" analysislevel="fully"/>
+        <morphology format="valenzuela03" analysislevel="fully">
+
+
+
+
+</morphology>
     </text>
 </parallel>
