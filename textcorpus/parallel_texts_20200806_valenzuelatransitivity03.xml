@@ -8,4 +8,10 @@
 }
 
 -->
-<parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd"/>
+<parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
+    <text id="1">
+        <sentence lang="shk">Orokinyamawanke.</sentence>
+        <sentence lang="en">(They) did not help (her/him) clear the chacra earlier today.</sentence>
+        <morphology format="" analysislevel="fully"/>
+    </text>
+</parallel>
