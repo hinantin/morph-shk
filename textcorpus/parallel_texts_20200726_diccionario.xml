@@ -12,267 +12,271 @@ SPECIAL CHARACTERS: s̈
 -->
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
     <text id="0.1">
-        <sentence lang="shk">Aínbo yácatara nocon huáata iqui.</sentence>
+        <sentence lang="shp">Aínbo yácatara nocon huáata iqui.</sentence>
         <sentence lang="es">La mujer que está sentada es mi tía materna.</sentence>
     </text>
     <text id="0.2">
-        <sentence lang="shk">Ja yácatatonra ea óinai.</sentence>
+        <sentence lang="shp">Ja yácatatonra ea óinai.</sentence>
         <sentence lang="es">El que está sentado me está mirando.</sentence>
     </text>
     <text id="0.3">
-        <sentence lang="shk">Moátíanronqui Yóashico Incaqui rétecana iqui. Réteas̈honqui huestíora jóní jahuen s̈henín síquita iqui.</sentence>
+        <sentence lang="shp">Moátíanronqui Yóashico Incaqui rétecana iqui. Réteas̈honqui huestíora jóní jahuen s̈henín síquita iqui.</sentence>
         <sentence lang="es">Cuentan que antiguamente mataron al Inca Mezquino y que un hombre se pintó con su grasa</sentence>
     </text>
     <text id="0.4">
-        <sentence lang="shk">Papán yóiara, en átapa béai.</sentence>
+        <sentence lang="shp">Papán yóiara, en átapa béai.</sentence>
         <sentence lang="es">Si papá me manda, yo traigo la gallina.</sentence>
     </text>
     <text id="0.5">
-        <sentence lang="shk">Nocon huái óroa pecaora, ea náshiai.</sentence>
+        <sentence lang="shp">Nocon huái óroa pecaora, ea náshiai.</sentence>
         <sentence lang="es">Después de cultivar mi chacra, voy a bañarme.</sentence>
     </text>
     <text id="1.0">
-        <sentence lang="shk">Eara nénoa iqui.</sentence>
+        <sentence lang="shp">Eara nénoa iqui.</sentence>
         <sentence lang="es">Yo soy de aquí.</sentence>
     </text>
     <text id="1.1">
-        <sentence lang="shk">Jára ónoas̈h jóque.</sentence>
+        <sentence lang="shp">Jára ónoas̈h jóque.</sentence>
         <sentence lang="es">El vino de allá</sentence>
     </text>
     <text id="2.1">
-        <sentence lang="shk">Rimámea ápo ábionin jóquetianra noa rároque.</sentence>
+        <sentence lang="shp">Rimámea ápo ábionin jóquetianra noa rároque.</sentence>
         <sentence lang="es">Cuando el Presidente vino de Lima en avión, nos alegramos.</sentence>
     </text>
     <text id="2.2">
-        <sentence lang="shk">Cáshiboainoa ábionbora moa masáti queyóque. Is̈hónbira nato simánanin moa béns̈hoaribacanai.</sentence>
+        <sentence lang="shp">Cáshiboainoa ábionbora moa masáti queyóque. Is̈hónbira nato simánanin moa béns̈hoaribacanai.</sentence>
         <sentence lang="es">Todas las avionetas de Cashibococha se han descompuesto, pero esta semana las van a reparar.</sentence>
     </text>
     <text id="3.1">
-        <sentence lang="shk">Moátianronqui Incánqui jahuen sontárobo as̈hánti ráans̈hon áboanique.</sentence>
+        <sentence lang="shp">Moátianronqui Incánqui jahuen sontárobo as̈hánti ráans̈hon áboanique.</sentence>
         <sentence lang="es">Cuentan que antiguamente, el Inca mandó a sus soldados a que pescaran y los convirtió en manshacos</sentence>
     </text>
     <text id="4.1">
-        <sentence lang="shk">Papán piára sarámpinin icas̈h áco banéque.</sentence>
+        <sentence lang="shp">Papán piára sarámpinin icas̈h áco banéque.</sentence>
         <sentence lang="es">Mi primo, el sobrino de papá, tuvo sarampión y se adelgazó.</sentence>
     </text>
     <text id="4.2">
-        <sentence lang="shk">Ipo máhuatas̈h áco bánetara poíncoscon píai.</sentence>
+        <sentence lang="shp">Ipo máhuatas̈h áco bánetara poíncoscon píai.</sentence>
         <sentence lang="es">El gallinazo come las carachamas muertas y resecas.</sentence>
     </text>
     <text id="4.3">
-        <sentence lang="shk">Cáchio caquínra ochítinin manáns̈hahue áco méraque, moa inón piá; ja biás̈ha papa rároque jíria íti shínanas̈h.</sentence>
+        <sentence lang="shp">Cáchio caquínra ochítinin manáns̈hahue áco méraque, moa inón piá; ja biás̈ha papa rároque jíria íti shínanas̈h.</sentence>
         <sentence lang="es">Al ir al monte, el perro encontró un motelo vacío que un tigre había comido; y al cogerlo, papá se alegró, al pensar que todavía estaba vivo.</sentence>
     </text>
     <text id="4.4">
-        <sentence lang="shk">Nato aínbora jacóma shinánya iqui; paránta ácora ea menique.</sentence>
+        <sentence lang="shp">Nato aínbora jacóma shinánya iqui; paránta ácora ea menique.</sentence>
         <sentence lang="es">Esta mujer es mala, porque me dió un plátano sin pulpa.</sentence>
     </text>
     <text id="5.1">
-        <sentence lang="shk">Noa acómpanan nátes̈hara s̈hetán jími béai.</sentence>
+        <sentence lang="shp">Noa acómpanan nátes̈hara s̈hetán jími béai.</sentence>
         <sentence lang="es">Cuando la cascabel nos muerde, nos sale sangre por las encías.</sentence>
     </text>
     <text id="6.1">
-        <sentence lang="shk">En mia acónquin yóiabíra, mía jóyamaibaque.</sentence>
+        <sentence lang="shp">En mia acónquin yóiabíra, mía jóyamaibaque.</sentence>
         <sentence lang="es">Aunque te hable sinceramente, no viniste ayer.</sentence>
     </text>
     <text id="7.1">
-        <sentence lang="shk">Acónteman jíhui s̈háteara sirán acá quesca ícai.</sentence>
+        <sentence lang="shp">Acónteman jíhui s̈háteara sirán acá quesca ícai.</sentence>
         <sentence lang="es">Cuando el cornegacho come un palo, deja una marca como el corte de un serrucho.</sentence>
     </text>
     <text id="8.1">
-        <sentence lang="shk">Acoronronqui máshi quesca páro napon pícotai.</sentence>
+        <sentence lang="shp">Acoronronqui máshi quesca páro napon pícotai.</sentence>
         <sentence lang="es">Dicen que la yacumama se aparece en medio del río y que parece una playa.</sentence>
     </text>
     <text id="8.2">
-        <sentence lang="shk">Huapóro quescaribironqui ácoron yamé pícotai.</sentence>
+        <sentence lang="shp">Huapóro quescaribironqui ácoron yamé pícotai.</sentence>
         <sentence lang="es">Dicen que la yacumama también aparece de noche en forma de una lancha.</sentence>
     </text>
     <text id="9.1">
-        <sentence lang="shk">Nato jónira moa s̈hoá icá iqui; rámara moa ácoque ísinas̈h</sentence>
+        <sentence lang="shp">Nato jónira moa s̈hoá icá iqui; rámara moa ácoque ísinas̈h</sentence>
         <sentence lang="es">Antes este hombre era gordo, pero se enfermó y adelgazó.</sentence>
     </text>
     <text id="9.2">
-        <sentence lang="shk">Papán ronón ehua réteibatara moa ácoa iqui.</sentence>
+        <sentence lang="shp">Papán ronón ehua réteibatara moa ácoa iqui.</sentence>
         <sentence lang="es">La boa que papá mató el otro día ya se resecó.</sentence>
     </text>
     <text id="10.1">
-        <sentence lang="shk">S̈héna píaitíanra nocon huetsán ácotiri tsácaque.</sentence>
+        <sentence lang="shp">S̈héna píaitíanra nocon huetsán ácotiri tsácaque.</sentence>
         <sentence lang="es">Mientras el pajarito ácotiri comía gusanos, mi hermano lo hirió con una flecha.</sentence>
     </text>
     <text id="11.1">
-        <sentence lang="shk">Eara oránshi s̈héas̈h aéique.</sentence>
+        <sentence lang="shp">Eara oránshi s̈héas̈h aéique.</sentence>
         <sentence lang="es">Eructé al lomar una gaseosa.</sentence>
     </text>
     <text id="11.2">
-        <sentence lang="shk">Eara íno pisi áeique - aquín manáns̈hahuen acá iqui. </sentence>
+        <sentence lang="shp">Eara íno pisi áeique - aquín manáns̈hahuen acá iqui. </sentence>
         <sentence lang="es">Dijo el moteIo: - Mi aliento apestaba a tigre cuando eructé.</sentence>
     </text>
     <text id="12.1">
-        <sentence lang="shk">Ahuacanronqui ronón ehuaqui cóshi méenique.</sentence>
+        <sentence lang="shp">Ahuacanronqui ronón ehuaqui cóshi méenique.</sentence>
         <sentence lang="es">Cuentan que en la antigüedad la sachavaca y la boa hicieron una competencia de fuerza.</sentence>
     </text>
     <text id="13.1">
-        <sentence lang="shk">Ahuai s̈hetánra chopa quenéati iqui.</sentence>
+        <sentence lang="shp">Ahuai s̈hetánra chopa quenéati iqui.</sentence>
         <sentence lang="es">Con el pico de la gaviota se pintan diseños en la tela.</sentence>
     </text>
     <text id="14.1">
-        <sentence lang="shk">Jonínra aínbo ahuínhaquin bíque ahuájoran raón̈hon.</sentence>
+        <sentence lang="shp">Jonínra aínbo ahuínhaquin bíque ahuájoran raón̈hon.</sentence>
         <sentence lang="es">Un hombre consiguió a una mujer por esposa, dándole pusanga con resina del árbol ahuájora.</sentence>
     </text>
     <text id="15.1">
-        <sentence lang="shk">Moátianronqui isonqui ahuántsonin róo tetónqui tsácanique; jáscatironqui róo tetón áni iqui.</sentence>
+        <sentence lang="shp">Moátianronqui isonqui ahuántsonin róo tetónqui tsácanique; jáscatironqui róo tetón áni iqui.</sentence>
         <sentence lang="es">En la antigüedad el maquisapa golpeó al cotomono en el cuello con un tutumo, y es por eso que se quedó con el cuello grueso.</sentence>
     </text>
     <text id="16.1">
-        <sentence lang="shk">Ahuápara yamé jóai átapa pícasi.</sentence>
+        <sentence lang="shp">Ahuápara yamé jóai átapa pícasi.</sentence>
         <sentence lang="es">El tigrillo viene por las noches para comer las gallinas.</sentence>
     </text>
     <text id="17.1">
-        <sentence lang="shk">£n ahuápishi nóntiaara ea yómetsoacanque.</sentence>
+        <sentence lang="shp">£n ahuápishi nóntiaara ea yómetsoacanque.</sentence>
         <sentence lang="es">Me robaron la canoa que hice de pashaca.</sentence>
     </text>
     <text id="18.1">
-        <sentence lang="shk">Ahuarampiti naman rácatara en manáns̈hahue bíque.</sentence>
+        <sentence lang="shp">Ahuarampiti naman rácatara en manáns̈hahue bíque.</sentence>
         <sentence lang="es">Conseguí un motelo que estaba debajo de este bejuco.</sentence>
     </text>
     <text id="19.1">
-        <sentence lang="shk">Ahuátepon ochíti s̈héamaara méchai.</sentence>
+        <sentence lang="shp">Ahuátepon ochíti s̈héamaara méchai.</sentence>
         <sentence lang="es">Cuando al perro se le da de tomar la planta ahuátepon, se vuelve buen cazador.</sentence>
     </text>
     <text id="20.1">
-        <sentence lang="shk">Jahuen áhuininra bíque.</sentence>
+        <sentence lang="shp">Jahuen áhuininra bíque.</sentence>
         <sentence lang="es">Su esposa lo recibió.</sentence>
     </text>
     <text id="20.2">
-        <sentence lang="shk">Atapaahuin quéotaronqui máhuacanon ícai.</sentence>
+        <sentence lang="shp">Atapaahuin quéotaronqui máhuacanon ícai.</sentence>
         <sentence lang="es">Dicen que cuando la gallina cacarea, anuncia que alguien va a morir.</sentence>
     </text>
     <text id="22.1">
-        <sentence lang="shk">Moara néteai.</sentence>
+        <sentence lang="shp">Moara néteai.</sentence>
         <sentence lang="es">Ya se hace de día.</sentence>
     </text>
     <text id="22.2">
-        <sentence lang="shk">Baquísha ea cái.</sentence>
+        <sentence lang="shp">Baquísha ea cái.</sentence>
         <sentence lang="es">Voy a ir mañana.</sentence>
     </text>
     <text id="22.3">
-        <sentence lang="shk">Isára nóyai jahuéquibo iqui.</sentence>
+        <sentence lang="shp">Isára nóyai jahuéquibo iqui.</sentence>
         <sentence lang="es">Los pajaritos son animales voladores.</sentence>
     </text>
     <text id="22.4">
-        <sentence lang="shk">Icha binónra en pique, pórocan chés̈hai caman.</sentence>
+        <sentence lang="shp">Icha binónra en pique, pórocan chés̈hai caman.</sentence>
         <sentence lang="es">He comido aguajes hasta que me duele el estómago.</sentence>
     </text>
     <text id="25.1">
-        <sentence lang="shk">Máioshiain caíra jóni réocooque tás̈ha tsácaas̈h.</sentence>
+        <sentence lang="shp">Máioshiain caíra jóni réocooque tás̈ha tsácaas̈h.</sentence>
         <sentence lang="es">Mientras iba a Pucallpa, el hombre chocó con una palizada y su canoa se volcó.</sentence>
     </text>
     <text id="25.2">
-        <sentence lang="shk">Contámanain yamébi caíra noa Tiróntainoas̈h néteque.</sentence>
+        <sentence lang="shp">Contámanain yamébi caíra noa Tiróntainoas̈h néteque.</sentence>
         <sentence lang="es">Cuando viajamos a Contamana，amanecimos en Tiruntán.</sentence>
     </text>
     <text id="25.3">
-        <sentence lang="shk">Jóni Iparianco cáitíanra, jahuen bonánti yómetsoacanque.</sentence>
+        <sentence lang="shp">Jóni Iparianco cáitíanra, jahuen bonánti yómetsoacanque.</sentence>
         <sentence lang="es">Cuando el hombre fue a Iparía, le robaron su maletín.</sentence>
     </text>
     <text id="25.4">
-        <sentence lang="shk">Rámara pápa Iquítoain iqui.</sentence>
+        <sentence lang="shp">Rámara pápa Iquítoain iqui.</sentence>
         <sentence lang="es">Ahora papá está en Iquitos.</sentence>
     </text>
     <text id="25.5">
-        <sentence lang="shk">Rámara títa Cacónco iqui.</sentence>
+        <sentence lang="shp">Rámara títa Cacónco iqui.</sentence>
         <sentence lang="es">Ahora mamá está en Caco.</sentence>
     </text>
     <text id="25.6">
-        <sentence lang="shk">Rabé báritiara ea Jépehueain téeque.</sentence>
+        <sentence lang="shp">Rabé báritiara ea Jépehueain téeque.</sentence>
         <sentence lang="es">Dos años he trabajado en Yarinacocha.</sentence>
     </text>
     <text id="25.7">
-        <sentence lang="shk">Básibiresa pápa Róaboyanco téeque.</sentence>
+        <sentence lang="shp">Básibiresa pápa Róaboyanco téeque.</sentence>
         <sentence lang="es">Durante mucho tiempo mi padre trabajó en Roaboya.</sentence>
     </text>
     <text id="25.8">
-        <sentence lang="shk">Cocánronqui Shánayainoa huitábo neníchina oíncato.</sentence>
+        <sentence lang="shp">Cocánronqui Shánayainoa huitábo neníchina oíncato.</sentence>
         <sentence lang="es">Cuentan que en Shanaya mi tío vio postes prendidos en el agua.</sentence>
     </text>
     <text id="25.9">
-        <sentence lang="shk">Róoyainshonra nocon cocán s̈hóboayantanque.</sentence>
+        <sentence lang="shp">Róoyainshonra nocon cocán s̈hóboayantanque.</sentence>
         <sentence lang="es">Estando en Roya mi tío construyó una casa.</sentence>
     </text>
     <text id="25.10">
-        <sentence lang="shk">Eara Iquítoainoa iqui.</sentence>
+        <sentence lang="shp">Eara Iquítoainoa iqui.</sentence>
         <sentence lang="es">Yo soy de Iquitos.</sentence>
     </text>
     <text id="25.11">
-        <sentence lang="shk">Jénepanshiainoa coríquinin títa bíi catira en shínanai.</sentence>
+        <sentence lang="shp">Jénepanshiainoa coríquinin títa bíi catira en shínanai.</sentence>
         <sentence lang="es">Pienso ir a la quebrada Genepanshea para conseguir plata en bruto de allí.</sentence>
     </text>
     <text id="25.12">
-        <sentence lang="shk">Oropampanconia non Inca bíi cátira huestíora jonín shínanai.</sentence>
+        <sentence lang="shp">Oropampanconia non Inca bíi cátira huestíora jonín shínanai.</sentence>
         <sentence lang="es">Cierto hombre piensa ir para traer a nuestro Inca del río Urubamba.</sentence>
     </text>
     <text id="25.13">
-        <sentence lang="shk">Eara Yarínainoas̈h jóque.</sentence>
+        <sentence lang="shp">Eara Yarínainoas̈h jóque.</sentence>
         <sentence lang="es">He venido de Yarina.</sentence>
     </text>
     <text id="25.14">
-        <sentence lang="shk">Eara Cacónconias̈h nocóque.</sentence>
+        <sentence lang="shp">Eara Cacónconias̈h nocóque.</sentence>
         <sentence lang="es">He llegado de Caco.</sentence>
     </text>
     <text id="26.1">
-        <sentence lang="shk">Títa náshíainra, jahuen báque níi meran cáque. </sentence>
+        <sentence lang="shp">Títa náshíainra, jahuen báque níi meran cáque. </sentence>
         <sentence lang="es">Mientras la madre se bañaba, su hijo fue al monte.</sentence>
     </text>
     <text id="26.2">
-        <sentence lang="shk">Ja ói beáinbira, ea cái.</sentence>
+        <sentence lang="shp">Ja ói beáinbira, ea cái.</sentence>
         <sentence lang="es">Aunque llueva, me voy.</sentence>
     </text>
     <text id="27.1">
-        <sentence lang="shk">Jenényoshin aínbaonronqui jóní bónique béneanos̈hon.</sentence>
+        <sentence lang="shp">Jenényoshin aínbaonronqui jóní bónique béneanos̈hon.</sentence>
         <sentence lang="es">Cuentan que antiguamente una sirena se llevó a un hombre para que fuese su esposo.</sentence>
     </text>
     <text id="28.1">
-        <sentence lang="shk">Aínbobaquera jahuen titán tsísquique.</sentence>
+        <sentence lang="shp">Aínbobaquera jahuen titán tsísquique.</sentence>
         <sentence lang="es">A esta muchacha su madre le pintó la ingle.</sentence>
     </text>
     <text id="28.2">
-        <sentence lang="shk">Ea náshiaincora benés ique.</sentence>
+        <sentence lang="shp">Ea náshiaincora benés ique.</sentence>
         <sentence lang="es">Donde me baño no es profundo</sentence>
     </text>
     <text id="28.3">
-        <sentence lang="shk">Jan tóo acaìnco cásha, ea ráquetai.</sentence>
+        <sentence lang="shp">Jan tóo acaìnco cásha, ea ráquetai.</sentence>
         <sentence lang="es">Tengo miedo de ir donde él está disparando.</sentence>
     </text>
     <text id="29.1">
-        <sentence lang="shk">Jonínronqui jahuen ahuínbuetsa paéns̈hon hués̈hanique.</sentence>
+        <sentence lang="shp">Jonínronqui jahuen ahuínbuetsa paéns̈hon hués̈hanique.</sentence>
         <sentence lang="es">Cuentan que una vez un hombre borracho cortó la cabeza de su cuñada con un cuchillo huéshati.</sentence>
     </text>
     <text id="29.2">
-        <sentence lang="shk">Papán pìaitianra, Jósican átapa bénaque.</sentence>
+        <sentence lang="shp">Papán pìaitianra, Jósican átapa bénaque.</sentence>
         <sentence lang="es">Mientras papá comía, José buscaba su gallina.</sentence>
     </text>
     <text id="30.1">
-        <sentence lang="shk">Ajíntinra tíati ácai jahuen cáibo quénaquln.</sentence>
+        <sentence lang="shp">Ajíntinra tíati ácai jahuen cáibo quénaquln.</sentence>
         <sentence lang="es">El agente municipal toca la bocina para llamar a sus paisanos.</sentence>
     </text>
     <text id="31.1">
-        <sentence lang="shk">Jenényoshiman amácaronquiqui nato ronón ehua.</sentence>
+        <sentence lang="shp">Jenényoshiman amácaronquiqui nato ronón ehua.</sentence>
         <sentence lang="es">Dicen que la boa es la hamaca de los yacurunas.</sentence>
     </text>
     <text id="32.1">
-        <sentence lang="shk">Amaquiri huácanahua ácaitianra jóni quétocan mápoque.</sentence>
+        <sentence lang="shp">Amaquiri huácanahua ácaitianra jóni quétocan mápoque.</sentence>
         <sentence lang="es">Cuando el hombre picaba gamitanas en una mijañada, un derrumbe en el barranco lo tapó.</sentence>
     </text>
     <text id="33.1">
-        <sentence lang="shk">Ea joámatianbi nato huarápo shéayamacanhue - aquinqui Incán jato acá iqui.</sentence>
+        <sentence lang="shp">Ea joámatianbi nato huarápo shéayamacanhue - aquinqui Incán jato acá iqui.</sentence>
         <sentence lang="es">Él Inca les dijo: -No tomen este guarapo hasta que yo venga.</sentence>
     </text>
     <text id="33.2">
-        <sentence lang="shk">Moátianronqui jonínqui amén mápoa iqui ricánquin.</sentence>
+        <sentence lang="shp">Moátianronqui jonínqui amén mápoa iqui ricánquin.</sentence>
         <sentence lang="es">Hace mucho tiempo un hombre cogió un ronsoco al tarrafear.</sentence>
     </text>
     <text id="33.3">
-        <sentence lang="shk">Aménhuaca jónibora raómis iqui.</sentence>
+        <sentence lang="shp">Aménhuaca jónibora raómis iqui.</sentence>
         <sentence lang="es">Los amahuaca tienen la costumbre de hechizar con pócimas vegetales.</sentence>
+    </text>
+    <text id="33.4">
+        <sentence lang="shp">Améntamo jónibora moa shipiboya méscota iqui.</sentence>
+        <sentence lang="es">Los amenture ya están bien mezclados con los shipibo.</sentence>
     </text>
 </parallel>
