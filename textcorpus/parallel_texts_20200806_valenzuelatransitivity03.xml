@@ -33,5 +33,21 @@ orokinyamawanke [VERB] oro[VRoot] kin[+Assoc] yama[+Neg] wan[+Pst1] ke[+Cmpl]
     <text id="2">
         <sentence lang="shp">Jatian ja bake xontako iki moa wikenéya, koriya, bekenéya, jonxeya, jatibiya; moa kikini raota.</sentence>
         <sentence lang="en">Then the young girl already has designs on her legs, a lip ornament, designs on her face, wrist ornaments, everything; she (is) very well adorned.</sentence>
+        <morphology format="valenzuela03">
+
+
+
+
+</morphology>
+        <morphology format="morph-shk" analysislevel="fully">
+
+
+jatian  [SCONJ] ja[SCONJRoot] tian[+Temp]
+
+ja      [PRON] ja[3.Sg]
+
+
+
+</morphology>
     </text>
 </parallel>
