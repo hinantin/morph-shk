@@ -319,4 +319,8 @@ SPECIAL CHARACTERS: s̈
         <sentence lang="shp">Nocon papán áni inó retenique.</sentence>
         <sentence lang="es">Mi papá mató a un tigre grande.</sentence>
     </text>
+    <text id="13.15">
+        <sentence lang="shp">T1tashoconbichora jahuen bába ániaque.</sentence>
+        <sentence lang="es">La abuelita, sola, crió a su nieto.</sentence>
+    </text>
 </parallel>
