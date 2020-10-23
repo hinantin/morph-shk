@@ -7,7 +7,7 @@
   publisher={Instituto Ling{\"u}{\'\i}stico de Verano}
 }
 
-SPECIAL CHARACTERS: s̈
+SPECIAL CHARACTERS: s̈ 
 
 -->
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
@@ -358,5 +358,121 @@ SPECIAL CHARACTERS: s̈
     <text id="13.24">
         <sentence lang="shp">Tas̈hbacan nónoaira epán áno réteque.</sentence>
         <sentence lang="es">El tío mató un majas que nadaba en la tahuampa.</sentence>
+    </text>
+    <text id="13.25">
+        <sentence lang="shp">Nato ánta nia namanra, coríqui mün iqui.</sentence>
+        <sentence lang="es">Debajo, de este guayabo acuático, hay dinero enterrado.</sentence>
+    </text>
+    <text id="13.26">
+        <sentence lang="shp">Aó bimi píaitianra papán ámaquiri cháchique.</sentence>
+        <sentence lang="es">Papá picó la gamitana mientras esta comía los frutos del árbol aó.</sentence>
+    </text>
+    <text id="13.27">
+        <sentence lang="shp">Apacharan bénal caas̈ha nocon pápa benóque</sentence>
+        <sentence lang="es">Mi papá se fue a buscar apacharama y se extravió</sentence>
+    </text>
+    <text id="13.28">
+        <sentence lang="shp">Abionimeara jóní ísinai íchas̈hon ápaquecanque</sentence>
+        <sentence lang="es">Entre varios bajaron a un hombre enfermo del avión</sentence>
+    </text>
+    <text id="13.29">
+        <sentence lang="shp">Moátianronqui huestíora báquequi、ápasahuan bónique</sentence>
+        <sentence lang="es">Cuentan que antiguamente el ápasahua se llevó a un niño</sentence>
+    </text>
+    <text id="13.30">
+        <sentence lang="shp">Jóni bénotaronqui moátian ápashironqui píconique</sentence>
+        <sentence lang="es">Cuentan que antiguamente la iguana sacó a un hombre que se había extraviado</sentence>
+    </text>
+    <text id="13.31">
+        <sentence lang="shp">¿Jáhue jánerin mia? ¿Min ápichirocan?</sentence>
+        <sentence lang="es">¿Cómo se llama usted? ¿Su apellido?</sentence>
+    </text>
+    <text id="13.32">
+        <sentence lang="shp">Non ápo pícocanquetianra non réteananti pícoai</sentence>
+        <sentence lang="es">Si expulsan a nuestro presidente, haremos una guerra</sentence>
+    </text>
+    <text id="13.33">
+        <sentence lang="shp">ispányorobaon ápo</sentence>
+        <sentence lang="es">el rey de España</sentence>
+    </text>
+    <text id="13.34">
+        <sentence lang="shp">Apónra noa coríqui ménique íscoira s̈hóboati</sentence>
+        <sentence lang="es">El gobierno nos ha dado dinero para construir la escuela</sentence>
+    </text>
+    <text id="13.35">
+        <sentence lang="shp">Nato s̈hóbo cátequinra non oínhaquetanque; is̈hónbira non jáhuebi mérayamaque</sentence>
+        <sentence lang="es">Miramos alrededor de esta casa,pero no encontramos nada</sentence>
+    </text>
+    <text id="13.36">
+        <sentence lang="shp">Báque míincana huíniaitianronqui jonín bénaaquetanquin Incán báque méranique máno meranoa</sentence>
+        <sentence lang="es">Cuentan que hace mucho tiempo un niño estaba llorando y un hombre lo buscaba por los alrededores y lo encontró enterrado en el fango: era el Hijo del Inca</sentence>
+    </text>
+    <text id="13.37">
+        <sentence lang="shp">Epánra aquéni réteque huacán peníquetian</sentence>
+        <sentence lang="es">Mi tío mató una garza aquéni cuando estaba posada encima de una vaca</sentence>
+    </text>
+    <text id="13.38">
+        <sentence lang="shp">Jahuen ráyosen Huáiaitianra papán aquínque</sentence>
+        <sentence lang="es">Cuando su yerno hacía la chacra, papá le ayudaba</sentence>
+    </text>
+    <text id="13.39">
+        <sentence lang="shp">Machíto arara papán rásaque</sentence>
+        <sentence lang="es">Papá raspó el óxido del machete</sentence>
+    </text>
+    <text id="13.40">
+        <sentence lang="shp">Nato baquénra jahuen titán tasón áraaque, rabón pécas̈hon</sentence>
+        <sentence lang="es">Este muchacho agujereó el tazón de su mamá con un clavo</sentence>
+    </text>
+    <text id="13.41">
+        <sentence lang="shp">Máioshiainra mescó arámpiri jáque; nocon papánra jáinoa ícha béque jato máromati</sentence>
+        <sentence lang="es">En Pucallpa hay diferentes clases de alambre de púas</sentence>
+    </text>
+    <text id="13.42">
+        <sentence lang="shp">jihuín arás̈honra nato quíni meranoa en chíchica bíque</sentence>
+        <sentence lang="es">Saqué el cuchillo de este hueco sujetándolo con dos palitos</sentence>
+    </text>
+    <text id="13.43">
+        <sentence lang="shp">Titán yámiquentira moa áraque, ján táshi nápota icas̈h</sentence>
+        <sentence lang="es">La olla de mamá se picó porque pusieron sal en ella</sentence>
+    </text>
+    <text id="13.44">
+        <sentence lang="shp">Moa áraquetianra nato yamín moa tsóa téeyamai</sentence>
+        <sentence lang="es">Como ya se oxidó, nadie trabaja con ésta hacha</sentence>
+    </text>
+    <text id="13.45">
+        <sentence lang="shp">Nato jahuéquibora áresti iqui</sentence>
+        <sentence lang="es">Estas cosas son permitidas</sentence>
+    </text>
+    <text id="13.46">
+        <sentence lang="shp">éaaresti, míaaresti, jáaresti, nóaaresti mátoaresti, játoaresti</sentence>
+        <sentence lang="es">vencerme, vencerte, vencerlo o vencerla, vencernos, vencerlos o vencerlas a ustedes, vencerlos a ellos o vencerlas a ellas</sentence>
+    </text>
+    <text id="13.47">
+        <sentence lang="shp">En arós saco pápiara éaaresque</sentence>
+        <sentence lang="es"> El saco de arroz que cargué me venció</sentence>
+    </text>
+    <text id="13.48">
+        <sentence lang="shp">Ja jónira moa yósiora iqui; jácopira míaaresque</sentence>
+        <sentence lang="es">Aquel hombre ya es muy maduro; por eso te ha vencido</sentence>
+    </text>
+    <text id="13.49">
+        <sentence lang="shp">Ichas̈hon non tapán níniabira nóaaresque.</sentence>
+        <sentence lang="es">Aunque jalamos la balsa entre varios, nos venció</sentence>
+    </text>
+    <text id="13.50">
+        <sentence lang="shp">Maton jénequetianra, mátoaresque.</sentence>
+        <sentence lang="es">Como ustedes dejaron de esforzarse；les ha vencido</sentence>
+    </text>
+    <text id="13.51">
+        <sentence lang="shp">Pirótanin tsíniquin non játoaresara sinácanque.</sentence>
+        <sentence lang="es">Se enojaron porque les vencimos jugando fútbol</sentence>
+    </text>
+    <text id="13.52">
+        <sentence lang="shp">Cocán ahuínra aríari piósma iqui.</sentence>
+        <sentence lang="es">La mujer de mi tío nunca ha comido ashara</sentence>
+    </text>
+    <text id="13.53">
+        <sentence lang="shp"/>
+        <sentence lang="es"/>
     </text>
 </parallel>
