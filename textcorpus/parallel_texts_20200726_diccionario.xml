@@ -7,7 +7,7 @@
   publisher={Instituto Ling{\"u}{\'\i}stico de Verano}
 }
 
-SPECIAL CHARACTERS: s̈ 
+    SPECIAL CHARACTERS: s̈ 
 
 -->
 <parallel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="parallel_texts.xsd">
@@ -468,11 +468,255 @@ SPECIAL CHARACTERS: s̈
         <sentence lang="es">Se enojaron porque les vencimos jugando fútbol</sentence>
     </text>
     <text id="13.52">
-        <sentence lang="shp">Cocán ahuínra aríari piósma iqui.</sentence>
+        <sentence lang="shp">Cocán ahuínra aríari piósma iqui</sentence>
         <sentence lang="es">La mujer de mi tío nunca ha comido ashara</sentence>
     </text>
     <text id="13.53">
-        <sentence lang="shp"/>
-        <sentence lang="es"/>
+        <sentence lang="shp">Nócho pícasironqui árihua quéotai</sentence>
+        <sentence lang="es">Dicen que el tarahuí canta cuando quiere comer *churos</sentence>
+    </text>
+    <text id="13.54">
+        <sentence lang="shp">Arimanboronqui áni jónibo iqui</sentence>
+        <sentence lang="es">Dicen que los alemanes son gente de estatura alta</sentence>
+    </text>
+    <text id="13.55">
+        <sentence lang="shp">Noara árimintanai mescó yóinanin i bánacan</sentence>
+        <sentence lang="es">Nos alimentamos con la carne de varios animales y con algunas plantas</sentence>
+    </text>
+    <text id="13.56">
+        <sentence lang="shp">químisha hueá arínaya mescóti</sentence>
+        <sentence lang="es">mezclar con tres medidas de harina</sentence>
+    </text>
+    <text id="13.57">
+        <sentence lang="shp">Nato baquénra jahuen titán chómo ríshquiquin tan arique</sentence>
+        <sentence lang="es">Este niño golpeó la tinaja de su mamá, haciéndola sonar de súbito</sentence>
+    </text>
+    <text id="13.58">
+        <sentence lang="shp">Aínbaonronqui arós cobínhaa s̈hanánqui huísoino rachís̈hon rétenique</sentence>
+        <sentence lang="es">Cuentan que en la antigüedad una mujer mató a un *yanapuma arrojándole arroz cocido y caliente</sentence>
+    </text>
+    <text id="13.59">
+        <sentence lang="shp">Moátianronqui asápaninqui chorónquin jóni rétenique</sentence>
+        <sentence lang="es">Cuentan que en la antigüedad un paco mató a un hombre saltándole encima desde el agua</sentence>
+    </text>
+    <text id="13.60">
+        <sentence lang="shp">asíiti botíria</sentence>
+        <sentence lang="es">una botella de aceite</sentence>
+    </text>
+    <text id="13.61">
+        <sentence lang="quz">Asócarora bátashaman iqui</sentence>
+        <sentence lang="es">El azúcar es muy dulce</sentence>
+    </text>
+    <text id="13.62">
+        <sentence lang="shp">Titán chómo áspara cochín tóeque</sentence>
+        <sentence lang="es">El chancho rompió la tinaja grande de mamá</sentence>
+    </text>
+    <text id="13.63">
+        <sentence lang="shp">Topónhue asta pácha caman</sentence>
+        <sentence lang="es">Cuenta hasta cien</sentence>
+    </text>
+    <text id="13.64">
+        <sentence lang="shp">Titán yomán s̈heíra astó iqui</sentence>
+        <sentence lang="es">El ovillo de mamá está lleno de hilo</sentence>
+    </text>
+    <text id="13.65">
+        <sentence lang="shp">Huestíora íhuira titán rabé néte astóai</sentence>
+        <sentence lang="es">Mamá llena un huso hilando dos días</sentence>
+    </text>
+    <text id="13.66">
+        <sentence lang="shp">Moa ástotas̈ha titán íhui sequéque</sentence>
+        <sentence lang="es">Se quebró el huso de mamá porque se llenó de hilo</sentence>
+    </text>
+    <text id="13.67">
+        <sentence lang="shp">Ashacanronqui aínbo chópaas̈honique</sentence>
+        <sentence lang="es">Cuentan que cierta vez el sapo ashá hizo ropa para una mujer</sentence>
+    </text>
+    <text id="13.68">
+        <sentence lang="shp">Jainra ashá jóai</sentence>
+        <sentence lang="es">Allí viene un campa</sentence>
+    </text>
+    <text id="13.69">
+        <sentence lang="shp">Nato aínbo áshpara quiquínbires íshto iqui, bénbo níai quescati níaiicas̈h</sentence>
+        <sentence lang="es">Esta mujer de piernas torcidas es muy rápida porque camina como hombre</sentence>
+    </text>
+    <text id="13.70">
+        <sentence lang="shp">Capónhanos̈honra papán cochi ashpánque</sentence>
+        <sentence lang="es">Papá le abrió las piernas al chancho para caparlo</sentence>
+    </text>
+    <text id="13.71">
+        <sentence lang="shp">Raínshicas̈ha ea ashpáque</sentence>
+        <sentence lang="es">Al resbalarme, me quedé con las piernas abiertas</sentence>
+    </text>
+    <text id="13.72">
+        <sentence lang="shp">Maín yacás̈honra titán jahuen huitás̈h ashtáaque</sentence>
+        <sentence lang="es">Al sentarse en el suelo, mamá cruzó sus piernas</sentence>
+    </text>
+    <text id="13.73">
+        <sentence lang="shp">Non ápo nocóquetian óinas̈ha noa quiquínbiresi rároque</sentence>
+        <sentence lang="es">Nos alégramos mucho cuando vimos llegar a nuestro presidente</sentence>
+    </text>
+    <text id="13.74">
+        <sentence lang="shp">Níma oíns̈honra, Josícan quénai</sentence>
+        <sentence lang="es">Al ver a Nima, José lo llama</sentence>
+    </text>
+    <text id="13.75">
+        <sentence lang="shp">Bóchiqui tsamás̈hon níncácana iqui</sentence>
+        <sentence lang="es">Se amontonaron arriba y escucharon</sentence>
+    </text>
+    <text id="13.76">
+        <sentence lang="shp">¿Jahueranoas̈hqui mia joá? -Onoas̈ha ea jóque</sentence>
+        <sentence lang="es">¿De dónde has venido? —Desde allá he venido</sentence>
+    </text>
+    <text id="13.77">
+        <sentence lang="shp">Níi meranoas̈ha ea jóque</sentence>
+        <sentence lang="es">He venido del monte</sentence>
+    </text>
+    <text id="13.78">
+        <sentence lang="shp">Róyain yamébi cás̈ha, Cacónconias̈h noa néteque</sentence>
+        <sentence lang="es">Cuando viajamos de noche a ^Roya, amanecimos en ^Caco</sentence>
+    </text>
+    <text id="13.79">
+        <sentence lang="shp">Paénshon ásha shéaasha jóni mahuáque</sentence>
+        <sentence lang="es">Atando borracho, el hombre tomó la huaca y murió</sentence>
+    </text>
+    <text id="13.80">
+        <sentence lang="shp">As̈hánqueianra pórisiabaon yatánque</sentence>
+        <sentence lang="es">Los policías lo prendieron porque pescó con huaca</sentence>
+    </text>
+    <text id="13.81">
+        <sentence lang="shp">Jahuen báque tasquéquetianra as̈hbís̈hon bóque</sentence>
+        <sentence lang="es">Cuando su hijo se dislocó el pie, lo llevó a horcajadas</sentence>
+    </text>
+    <text id="13.82">
+        <sentence lang="shp">Pápashoconra as̈héya acá píti pis̈hón quinánque</sentence>
+        <sentence lang="es"> El abuelito vomitó al ingerir comida preparada con culantro</sentence>
+    </text>
+    <text id="13.83">
+        <sentence lang="shp">Ja jónibora jaton as̈hé jénecashamai</sentence>
+        <sentence lang="es">Esta gente no quiere dejar su costumbre</sentence>
+    </text>
+    <text id="13.84">
+        <sentence lang="shp">Maístoron jato pirótanin ás̈heaara báquebaon jénecashamai</sentence>
+        <sentence lang="es">Porque el maestro los ha acostumbrado a jugar con la pelota, los niños no quieren dejar de jugar con ella</sentence>
+    </text>
+    <text id="13.85">
+        <sentence lang="shp">Jánra quírica ácaibo ás̈heacai</sentence>
+        <sentence lang="es">El enseña a los alumnos</sentence>
+    </text>
+    <text id="13.86">
+        <sentence lang="shp">Eabicho íitira ea moa ás̈hea iqui</sentence>
+        <sentence lang="es">Ya estoy acostumbrado a estar solo</sentence>
+    </text>
+    <text id="13.87">
+        <sentence lang="shp">Nato báquera ás̈heyosma iqui</sentence>
+        <sentence lang="es">Este niño es un rebelde</sentence>
+    </text>
+    <text id="13.88">
+        <sentence lang="shp">As̈horonqui cóshi jóni iqui, rashíco jóni quesca, huíso</sentence>
+        <sentence lang="es">Dicen que el demonio de la capirona es un hombre fuerte, parecido a un brasileño de color</sentence>
+    </text>
+    <text id="13.89">
+        <sentence lang="shp">Jahuen báque sontáro cátanas̈h jóquetianra epán átapa réteque</sentence>
+        <sentence lang="es">El tío mató una gallina cuando su hijo regresó del ejército</sentence>
+    </text>
+    <text id="13.90">
+        <sentence lang="shp">Atapa quéotainra ea jishténbuanque</sentence>
+        <sentence lang="es">Esta mañana me desperté al cantar el gallo</sentence>
+    </text>
+    <text id="13.91">
+        <sentence lang="shp">Atapaahuininra quéntican tsíbuai</sentence>
+        <sentence lang="es">La gallina pone huevos en la olla de barro</sentence>
+    </text>
+    <text id="13.92">
+        <sentence lang="shp">Rámara en ácai</sentence>
+        <sentence lang="es">Ahora lo voy a hacer</sentence>
+    </text>
+    <text id="13.93">
+        <sentence lang="shp">Titónra jahuen huetsán s̈hóbo ácai</sentence>
+        <sentence lang="es">Tito está construyendo la casa de su hermano</sentence>
+    </text>
+    <text id="13.94">
+        <sentence lang="shp">¿Minqui janquenhaa? —Acáma.</sentence>
+        <sentence lang="es"> ¿Has terminado? —No he terminado</sentence>
+    </text>
+    <text id="13.95">
+        <sentence lang="shp">Miara ácai</sentence>
+        <sentence lang="es">Te está hablando</sentence>
+    </text>
+    <text id="13.96">
+        <sentence lang="shp">Jaíns̈hon Titón acá iqui — ¡Oínhue! </sentence>
+        <sentence lang="es">Entonces Tito le dijo: - ¡Mira!</sentence>
+    </text>
+    <text id="13.97">
+        <sentence lang="shp">Baquísh jotanhue — aquínra rócotoron acá iqui</sentence>
+        <sentence lang="es">El doctor me dijo: —Regrese mañana</sentence>
+    </text>
+    <text id="13.98">
+        <sentence lang="shp">Nocon machítora en s̈hóbo chicho áque, báquebaon ea potanaanaquetian</sentence>
+        <sentence lang="es">He puesto mi machete dentro de la casa para que los niños no lo pierdan</sentence>
+    </text>
+    <text id="13.99">
+        <sentence lang="shp">4 rabé acá páquetai 8</sentence>
+        <sentence lang="es">4 más 4 es igual a 8</sentence>
+    </text>
+    <text id="14.0">
+        <sentence lang="shp">Jaton cápitan yámaquetianra, pirótanin tsíniaibo jábaonresque</sentence>
+        <sentence lang="es"> Como no estaba su capitán, los futbolistas perdieron</sentence>
+    </text>
+    <text id="14.1">
+        <sentence lang="shp">Párora jonín acáma iqui; icás̈hbi repínti jonín aca riqui</sentence>
+        <sentence lang="es">El río no es artificial; el puerto, sí</sentence>
+    </text>
+    <text id="14.2">
+        <sentence lang="shp">Nimánra tíati shónaque</sentence>
+        <sentence lang="es">Nima hizo sonar la bocina</sentence>
+    </text>
+    <text id="14.3">
+        <sentence lang="shp">s̈hóboati</sentence>
+        <sentence lang="es">con玷ruir casa</sentence>
+    </text>
+    <text id="14.4">
+        <sentence lang="shp">nóntiati</sentence>
+        <sentence lang="es">hacer canoa</sentence>
+    </text>
+    <text id="14.5">
+        <sentence lang="shp">joshínhati</sentence>
+        <sentence lang="es">enrojecer</sentence>
+    </text>
+    <text id="14.6">
+        <sentence lang="shp">nenquéati</sentence>
+        <sentence lang="es">alargar</sentence>
+    </text>
+    <text id="14.7">
+        <sentence lang="shp">nas̈hbáati</sentence>
+        <sentence lang="es">anchar</sentence>
+    </text>
+    <text id="14.8">
+        <sentence lang="shp">Ea maístoron taría áti méniabira áticoma iqui</sentence>
+        <sentence lang="es">La tarea que el maestro me dio es difícil</sentence>
+    </text>
+    <text id="14.9">
+        <sentence lang="shp">Jahuen s̈hóno tárani cáas̈hbira pápa jáquiribi joríbaque, jánbicho acá áticoma íquetian</sentence>
+        <sentence lang="es"> Papá salió a hacer rodar su lupuna; pero regresó, porque era imposible que lo hiciera solo</sentence>
+    </text>
+    <text id="14.10">
+        <sentence lang="shp">Ja áticoma jahuéqui acánhue</sentence>
+        <sentence lang="es">Resuelvan el problema</sentence>
+    </text>
+    <text id="14.11">
+        <sentence lang="shp">Baquénra átio machíto yatánque</sentence>
+        <sentence lang="es">El niño agarró el machete por el lado correcto</sentence>
+    </text>
+    <text id="14.12">
+        <sentence lang="shp">Eara Rimán cáti átipanque</sentence>
+        <sentence lang="es">Puedo ir a Lima</sentence>
+    </text>
+    <text id="14.13">
+        <sentence lang="shp">Oa aínbaonra chómoati átipanque</sentence>
+        <sentence lang="es">Aquella mujer puede hacer la tinaja</sentence>
+    </text>
+    <text id="14.14">
+        <sentence lang="shp">Riós jatíbi jahuéqui átipana</sentence>
+        <sentence lang="es">Dios todopoderoso</sentence>
     </text>
 </parallel>
