@@ -1529,7 +1529,231 @@
         <sentence lang="es">El niño tiene costras porque está con sarampión</sentence>
     </text>
     <text id="16.15">
-        <sentence lang="shp"> Nocon pápashoco isínquetianra míríconin bénshoaque</sentence>
-        <sentence lang="es"></sentence>
+        <sentence lang="shp">Nocon pápashoco isínquetianra míríconin béns̈hoaque</sentence>
+        <sentence lang="es">Cuando mi abuelito se enfermó, el curandero lo sanó</sentence>
+    </text>
+    <text id="16.16">
+        <sentence lang="shp">Nocon epánra tóoati béns̈hoati onánque</sentence>
+        <sentence lang="es">Mi tío sabe componer escopetas</sentence>
+    </text>
+    <text id="16.17">
+        <sentence lang="shp">Matsós̈honra aínbaon s̈hóbo béns̈hoaque</sentence>
+        <sentence lang="es">La mujer aseó la casa barriéndola</sentence>
+    </text>
+    <text id="16.18">
+        <sentence lang="shp">Táshira non botíria meran béns̈hoai</sentence>
+        <sentence lang="es">Guardamos la sal en botellas</sentence>
+    </text>
+    <text id="16.19">
+        <sentence lang="shp">Nato huíshati máquina moa bens̈hó iquénbíra, jemán pícos̈hon ói ámacanque</sentence>
+        <sentence lang="es">Sacaron afuera esta máquina de escribir que estaba bien guardada y dejaron que se mojase en la lluvia</sentence>
+    </text>
+    <text id="16.20">
+        <sentence lang="shp">Maístoronra báquebo óinai bénshocaatarinlshon</sentence>
+        <sentence lang="es">El maestro revisa a los niños para ver si se asearon</sentence>
+    </text>
+    <text id="16.21">
+        <sentence lang="shp">Rabe ós̈he ísinas̈ha moa béns̈hoque, rócotoron ráo s̈héamaa</sentence>
+        <sentence lang="es">El que estuvo enfermo dos meses se sanó porque el doctor le dio un remedio</sentence>
+    </text>
+    <text id="16.22">
+        <sentence lang="shp">Nato aínbora jahuen bénta betanbi bénoa iqui</sentence>
+        <sentence lang="es">esta mujer se casó con la persona con quien debía casarse</sentence>
+    </text>
+    <text id="16.23">
+        <sentence lang="shp">Mía shinánquinra en ícha beóa pótaque</sentence>
+        <sentence lang="es">Al pensar en ti he derramado muchas lágrimas </sentence>
+    </text>
+    <text id="16.24">
+        <sentence lang="shp">Nocon pápashoco máhuata níncatas̈ha ea beónque, masá shínani</sentence>
+        <sentence lang="es">Al oír que mi abuelito había muerto, lloré, porque sentí pena</sentence>
+    </text>
+    <text id="16.25">
+        <sentence lang="shp">Beóquetianra en aínbo huínobaiiique</sentence>
+        <sentence lang="es">Cuando la mujer estaba agachada, pasé sin que me viera</sentence>
+    </text>
+    <text id="16.26">
+        <sentence lang="shp">Oa aínbora yóyoiquibi bépeai</sentence>
+        <sentence lang="es">Aquella mujer inclina la cabeza mientras habla</sentence>
+    </text>
+    <text id="16.27">
+        <sentence lang="shp">Canáyoshinronqui bépoya iqui</sentence>
+        <sentence lang="es">Dicen que el demonio del relámpago tiene légañas</sentence>
+    </text>
+    <text id="16.28">
+        <sentence lang="shp">Eara nisá bépocooque</sentence>
+        <sentence lang="es">Tengo una suciedad en el ojo</sentence>
+    </text>
+    <text id="16.29">
+        <sentence lang="shp">Paránta s̈hócaquinra báqueainbaon jahuen bepón biónque</sentence>
+        <sentence lang="es">Al pelar los plátanos, la muchacha se manchó totalmente con la resina</sentence>
+    </text>
+    <text id="16.30">
+        <sentence lang="shp">Nato jíhui réraara bepónque; shirínca jihuira íbirai</sentence>
+        <sentence lang="es">Este árbol cortado ha chorreado resina；seguramente es *shiringa</sentence>
+    </text>
+    <text id="16.31">
+        <sentence lang="shp">Nato báquera bépoque, bonán cópiaicash</sentence>
+        <sentence lang="es">Este niño quedó con legañas porque la abeja lo *cutipó</sentence>
+    </text>
+    <text id="16.32">
+        <sentence lang="shp">Nihuén acára máshi janbísque; ja mashínra báque bepóque</sentence>
+        <sentence lang="es">La arena se dipersó con el viento y entró en los ojos de un niño</sentence>
+    </text>
+    <text id="16.33">
+        <sentence lang="shp">Iparia bequeibaqueas̈ha nato jóni joíbaque</sentence>
+        <sentence lang="es">Este hombre vino ayer de un lugar exactamente frente a *lparía</sentence>
+    </text>
+    <text id="16.34">
+        <sentence lang="shp">Jónira ja bebon chiráncotas̈h béquepia iqui</sentence>
+        <sentence lang="es">El hombre se arrodilló y se postró delante de él</sentence>
+    </text>
+    <text id="16.35">
+        <sentence lang="shp">Joé óinas̈ha ea bériique</sentence>
+        <sentence lang="es">Al mirar la luz, parpadeé</sentence>
+    </text>
+    <text id="16.36">
+        <sentence lang="shp">Nato baquénra jahuen huétsa bínoman béroqui tsácaque</sentence>
+        <sentence lang="es">Este niño golpeó a su hermano en el ojo con un *aguaje</sentence>
+    </text>
+    <text id="16.37">
+        <sentence lang="shp">Huestíora báquera isóns̈homa bero s̈héaas̈h mahuáqueanque</sentence>
+        <sentence lang="es">Un niño casi muere al tragar una semilla de *zapote</sentence>
+    </text>
+    <text id="16.38">
+        <sentence lang="shp">Oa jónira bérocaranioma iqui</sentence>
+        <sentence lang="es">Aquel hombre no tiene cejas</sentence>
+    </text>
+    <text id="16.39">
+        <sentence lang="shp">jahuen bérochiponainra binán técaque</sentence>
+        <sentence lang="es">Le picó la avispa en el rabillo del ojo</sentence>
+    </text>
+    <text id="16.40">
+        <sentence lang="shp">Jenénconias̈h choronira bérochon nontín nanéque</sentence>
+        <sentence lang="es">Al saltar del agua，la sardiníta bérochon se metió en la canoa</sentence>
+    </text>
+    <text id="16.41">
+        <sentence lang="shp">Yósibora béronamia iqui</sentence>
+        <sentence lang="es">Varios viejos tienen catarata</sentence>
+    </text>
+    <text id="16.42">
+        <sentence lang="shp">Non béroques̈hni s̈hátearonqui ós̈hatícoma iqui</sentence>
+        <sentence lang="es">Dicen que cuando se cortan las pestañas, es difícil dormir</sentence>
+    </text>
+    <text id="16.43">
+        <sentence lang="shp">Bérorao márohue, mía jan béchesheeshon</sentence>
+        <sentence lang="es">Cómprese usted ungüento para ungirse los ojos</sentence>
+    </text>
+    <text id="16.44">
+        <sentence lang="shp">Huanín pianra béros̈hantoqui tsácaque</sentence>
+        <sentence lang="es">Le picó en la cuenca del ojo con una flecha hecha de "pijuayo</sentence>
+    </text>
+    <text id="16.45">
+        <sentence lang="shp">Berón icara bérotapocoain bépo jóconai</sentence>
+        <sentence lang="es">Cuando el ojo se inflama, salen las legañas en el rabillo del ojo</sentence>
+    </text>
+    <text id="16.46">
+        <sentence lang="shp">Aínbora jahuen bérotapon sóoica iqui</sentence>
+        <sentence lang="es">A la mujer se le hinchó el músculo del ojo</sentence>
+    </text>
+    <text id="16.47">
+        <sentence lang="shp">Besbén iécaara nato jonín rabé néte yonáque</sentence>
+        <sentence lang="es">Por la picadura de una avispa bésbe， este hombre tuvo dos días de fiebre</sentence>
+    </text>
+    <text id="16.48">
+        <sentence lang="shp">Moátianronqui Incán chíitsistoqui béscoman bónique</sentence>
+        <sentence lang="es">Cuentan que en la antigüedad el chirriclés se llevó un tizón del *Inca Mezquino</sentence>
+    </text>
+    <text id="16.49">
+        <sentence lang="shp">Abionra jéne besenen jóai</sentence>
+        <sentence lang="es">El avión viene sobre el agua</sentence>
+    </text>
+    <text id="16.50">
+        <sentence lang="shp">Jahuen chómo bésmitiaquinra titán s̈héati nachíque</sentence>
+        <sentence lang="es">Mamá vertió la bebida en su tinaja llenándola hasta el tope</sentence>
+    </text>
+    <text id="16.51">
+        <sentence lang="shp">Nocon bésoiquitira ea níhuén boónque</sentence>
+        <sentence lang="es">El viento se llevó mi pañuelo</sentence>
+    </text>
+    <text id="16.52">
+        <sentence lang="shp">Néte béaitian átapa quéotaitianra ea bésoque</sentence>
+        <sentence lang="es">Me desperté cuando el gallo cantó al amanecer</sentence>
+    </text>
+    <text id="16.53">
+        <sentence lang="shp">Janra báque bésquiaí</sentence>
+        <sentence lang="es">El está pintando la cara del niño</sentence>
+    </text>
+    <text id="16.54">
+        <sentence lang="shp">Ja báquebora mésquitas̈h besquícanai</sentence>
+        <sentence lang="es">Los niños se están manchando las manos y la cara</sentence>
+    </text>
+    <text id="16.55">
+        <sentence lang="shp">Iquítoainoara bestéti copíma ea mároque</sentence>
+        <sentence lang="es">Compré unas tijeras muy baratas en Iquitos</sentence>
+    </text>
+    <text id="16.56">
+        <sentence lang="shp">Jopós̈ha beshéshoco icas̈h mératicoma iqui</sentence>
+        <sentence lang="es">Es muy difícil ver a los *isangües porque son muy pequeñitos</sentence>
+    </text>
+    <text id="16.57">
+        <sentence lang="shp">Comán Quenéya lamans̈honronqui jonín áni máque cháchiamanique, méeyamahue ján jahuen beshébo jáquina riqui — aquin jahuen papan áquetian</sentence>
+        <sentence lang="es">Dicen que en la cocha *Coman Quineya un hombre iba a picar una *paña enorme pero no lo hizo porque su padre le dijo: —No la toques, porque es la que sustenta a sus crías</sentence>
+    </text>
+    <text id="16.58">
+        <sentence lang="shp">Huestíora jonínra íno beshéaquin réraque</sentence>
+        <sentence lang="es">Un hombre macheteó a un *tigre hasta hacerlo pedacitos</sentence>
+    </text>
+    <text id="16.59">
+        <sentence lang="shp">Titán chómora bochiquiash páqueti besbécainque</sentence>
+        <sentence lang="es">La tinaja de mamá se bizo añicos al caerse de lo alio</sentence>
+    </text>
+    <text id="16.60">
+        <sentence lang="shp">Nato baquénra béshpí picós̈hon yonáque</sentence>
+        <sentence lang="es">Este niño tiene fiebre, porque le salió un orzuelo</sentence>
+    </text>
+    <text id="16.61">
+        <sentence lang="shp">Nato jonín payánra quiquínbires bés̈ha iqui</sentence>
+        <sentence lang="es">El brazo de este hombre es muy áspero</sentence>
+    </text>
+    <text id="16.62">
+        <sentence lang="shp">Ochítinin pócora bés̈ha iqui</sentence>
+        <sentence lang="es">La barriga del perro está cubierta de chupos</sentence>
+    </text>
+    <text id="16.63">
+        <sentence lang="shp">Nato aínbaon ponyánra moa bés̈haque; jácopi non ráomeeti yóiabira icáshamai</sentence>
+        <sentence lang="es">El brazo de esta mujer está lleno de chupos; y aunque le aconsejamos que se cure, no quiere</sentence>
+    </text>
+    <text id="16.64">
+        <sentence lang="shp">Baín caquínra en bés̈hco jamáque</sentence>
+        <sentence lang="es">Al ir por el camino, pisé un sapo</sentence>
+    </text>
+    <text id="16.65">
+        <sentence lang="shp">Nato bés̈hmi jónira sináyora iqui</sentence>
+        <sentence lang="es">Este hombre bizco es muy colérico</sentence>
+    </text>
+    <text id="16.66">
+        <sentence lang="shp">Aínbaonra jahuen báque bés̈hmiaque bétanes̈hon</sentence>
+        <sentence lang="es">Una mujer volvió tuerto a su hijo, por ponerle una tablilla en la frente</sentence>
+    </text>
+    <text id="16.67">
+        <sentence lang="shp">Nato báqueranonra pirótanin béroquí tsácaa bés̈hmique</sentence>
+        <sentence lang="es">Este joven se volvió tuerto porque una pelota le golpeó el ojo</sentence>
+    </text>
+    <text id="16.68">
+        <sentence lang="shp">Aroyaninra jéne bes̈hnán icas̈h píti jíshti iqui</sentence>
+        <sentence lang="es">En la quebrada *Aruya los peces se ven, porque el agua es transparente</sentence>
+    </text>
+    <text id="16.69">
+        <sentence lang="shp">Ténamanra bes̈hnán mároai rícaton iqui</sentence>
+        <sentence lang="es">En el puerto está el regatón que vende aguardiente</sentence>
+    </text>
+    <text id="16.70">
+        <sentence lang="shp">Báque bés̈hnitainbira rócotoron béroraon bechés̈hque</sentence>
+        <sentence lang="es">Aunque el niño pestañeaba, el doctor puso el colirio en sus ojos</sentence>
+    </text>
+    <text id="16.71">
+        <sentence lang=""></sentence>
+        <sentence lang=""></sentence>
     </text>
 </parallel>
