@@ -4193,7 +4193,151 @@
         <sentence lang="es">El doctor m e dijo que ahora me faltan sólo dos inyecciones</sentence>
     </text>
     <text id="22.78">
-        <sentence lang="shp">Tonón, íspiara cháchimís iqui</sentence>
+        <sentence lang="shp">Tonón, íspiara cháchimis iqui</sentence>
         <sentence lang="es">El *bagre es un pez que hinca porque tiene púas</sentence>
+    </text>
+    <text id="22.79">
+        <sentence lang="shp">Atapa benequira ea ráquetai, ea chachinaquetian</sentence>
+        <sentence lang="es">Tengo miedo que el gallo m e vaya a picar</sentence>
+    </text>
+    <text id="22.80">
+        <sentence lang="shp">En capé cháchiara chicáro bóque</sentence>
+        <sentence lang="es">Cuando piqué al lagarto, se llevó mi arpón</sentence>
+    </text>
+    <text id="22.81">
+        <sentence lang="shp">Yoná jéneyamaltianra sánitarion cháchique</sentence>
+        <sentence lang="es">El enfermero le aplicó una inyección porque la fiebre no lo dejaba</sentence>
+    </text>
+    <text id="22.82">
+        <sentence lang="shp">Moa copíora iquénbira ea cháchitinin mároque</sentence>
+        <sentence lang="es">Compré una jeringa aunque estaba muy cara</sentence>
+    </text>
+    <text id="22.83">
+        <sentence lang="shp">Nocon báquera cháchitiqui ráquetai, moa íchaaquin ácana icas̈h</sentence>
+        <sentence lang="es">Mi hijo tiene miedo a las inyecciones, porque se las han aplicado muchas veces</sentence>
+    </text>
+    <text id="22.84">
+        <sentence lang="shp">Shomós̈h méeresira mequenhain cháchique</sentence>
+        <sentence lang="es">Jugando con la aguja, se hincó en la mano</sentence>
+    </text>
+    <text id="22.85">
+        <sentence lang="shp">Ráomeeti s̈hobóns̈honra ea chachíhuanque</sentence>
+        <sentence lang="es">Me aplicaron una inyección en la clínica</sentence>
+    </text>
+    <text id="22.86">
+        <sentence lang="shp">Piróta aquí cháchitas̈ha ea picóque</sentence>
+        <sentence lang="es">Al jugar fútbol, sentí un dolor punzante y salí del juego</sentence>
+    </text>
+    <text id="22.87">
+        <sentence lang="shp">Chiquísh is̈honronqui cháhua s̈héati iqui</sentence>
+        <sentence lang="es">Dicen que cuando uno es flojo, debe tomar el jugo del bejuco cháhua</sentence>
+    </text>
+    <text id="22.88">
+        <sentence lang="shp">Jóni paenara cháhuacan tárameeque</sentence>
+        <sentence lang="es">El borracho se revolcó en el barro</sentence>
+    </text>
+    <text id="22.89">
+        <sentence lang="shp">Oi bequénra moa bái chahuáque</sentence>
+        <sentence lang="es">El camino se volvió lodoso por la lluvia</sentence>
+    </text>
+    <text id="22.90">
+        <sentence lang="shp">Jahuen chaínra ribíns̈honbi copíayamai</sentence>
+        <sentence lang="es">Su cuñado no le paga, aunque le debe</sentence>
+    </text>
+    <text id="22.91">
+        <sentence lang="shp">Noa cháiconin yótoaronqui jími quínani noa máhuatai</sentence>
+        <sentence lang="es">Dicen que cuando el espíritu silvestre cháiconi nos embruja, podemos morir por vomitar sangre</sentence>
+    </text>
+    <text id="22.92">
+        <sentence lang="shp">Jíhui chaishaquin ráteara nato báque huinique</sentence>
+        <sentence lang="es">Este niño se asustó y lloró cuando se quebró una rama seca del árbol</sentence>
+    </text>
+    <text id="22.93">
+        <sentence lang="shp">Jíbui ponyan páquetira chaishirique</sentence>
+        <sentence lang="es">La rama se quebró e hizo un sonido repentino</sentence>
+    </text>
+    <text id="22.94">
+        <sentence lang="shp">Joínra s̈hánbo cái chamá —Iquira icánque báquebo já bénai</sentence>
+        <sentence lang="es">Buscando *lagartijas, los niños decían —iAhí va una, compañero</sentence>
+    </text>
+    <text id="22.95">
+        <sentence lang="shp">Néri johué chamá noa hués̈haananon 一iquira jóni ícai</sentence>
+        <sentence lang="es">El hombre le dice a su enemigo —Ven a luchar, sinvergüenza</sentence>
+    </text>
+    <text id="22.96">
+        <sentence lang="shp">Chámironquiqui huirácocha jisá</sentence>
+        <sentence lang="es">Dicen que el demonio de la viruela parece un hombre blanco</sentence>
+    </text>
+    <text id="22.97">
+        <sentence lang="shp">En poróto bánaabira ea champón quéyonaanque</sentence>
+        <sentence lang="es">los grillos destruyeron los frijoles que sembré</sentence>
+    </text>
+    <text id="22.97b">
+        <sentence lang="shp">Binán cómparonqui chána iqui</sentence>
+        <sentence lang="es">Dicen que el compadre de la avispa es el paucarcito</sentence>
+    </text>
+    <text id="22.98">
+        <sentence lang="shp">Moátianronqui icá iqui huestíora mápijoni, jahuen béro chanca</sentence>
+        <sentence lang="es">Cuentan que en la antigüedad había un hombre camarón que tenía ojos sobresalientes</sentence>
+    </text>
+    <text id="22.99">
+        <sentence lang="shp">Jaín chancánhue</sentence>
+        <sentence lang="es">Póngalo allí parado</sentence>
+    </text>
+    <text id="23.0">
+        <sentence lang="shp">Niósma icás̈bira nato báque chancáque</sentence>
+        <sentence lang="es">Aunque no sabía andar, este niño se paró</sentence>
+    </text>
+    <text id="23.1">
+        <sentence lang="shp">Nato aínbora bóes̈heetama iqui; jahuen bóora cháncata iqui</sentence>
+        <sentence lang="es">Esta mujer no está peinada; su cabello está parado</sentence>
+    </text>
+    <text id="23.2">
+        <sentence lang="shp">Noa cháncati caquénbira noa quénacana jóque</sentence>
+        <sentence lang="es">Habíamos ido de visita pero regresamos, porque nos llamó nuestra familia </sentence>
+    </text>
+    <text id="23.3">
+        <sentence lang="shp">Cháncoya icas̈h cháchitara moa queyóque</sentence>
+        <sentence lang="es">Han desaparecido las protuberancias de su cuerpo a causa de la inyección que se aplicó</sentence>
+    </text>
+    <text id="23.4">
+        <sentence lang="shp">Non átsapoto pímaaronqui átapa cháncoai</sentence>
+        <sentence lang="es">Dicen que cuando la gallina come fariña, la ataca el cuchipe</sentence>
+    </text>
+    <text id="23.5">
+        <sentence lang="shp">Non cháncos̈hahue osánquetíanronqui noa nonbémai</sentence>
+        <sentence lang="es">Dicen que si nos reímos de la matamata, nos pueden brotar chupos parecidos a sus protuberancias</sentence>
+    </text>
+    <text id="23.6">
+        <sentence lang="shp">Nocon títashocora cháncoash mahuáque</sentence>
+        <sentence lang="es">Mi abuelíta murió cuando le salieron protuberancias en el cuerpo</sentence>
+    </text>
+    <text id="23.7">
+        <sentence lang="shp">Nocon átapabora moa cháncoque</sentence>
+        <sentence lang="es">Mis gallinas se han contagiado el cuchipe</sentence>
+    </text>
+    <text id="23.8">
+        <sentence lang="shp">Nocon pápara chánicanabi s̈héai cáyamaque</sentence>
+        <sentence lang="es">Mi papá no fue a beber, aunque lo habían invitado</sentence>
+    </text>
+    <text id="23.9">
+        <sentence lang="shp">Nonra s̈héatiapariai; jácopira chánitaín noa cáyamai</sentence>
+        <sentence lang="es">Vamos a seguir preparando la bebida, y por eso todavía no vamos a donde estamos invitados</sentence>
+    </text>
+    <text id="23.10">
+        <sentence lang="shp">Nato báquera s̈háo jámatas̈h chánquetai</sentence>
+        <sentence lang="es">Este niño anda de puntillas porque pisó una espina</sentence>
+    </text>
+    <text id="23.11">
+        <sentence lang="shp">Nato bísiquirita chántara en otsíaama iqui; nato jonínra áque</sentence>
+        <sentence lang="es">Yo no desinflé la llanta de esta bicicleta；este hombre lo hizo</sentence>
+    </text>
+    <text id="23.12">
+        <sentence lang="shp">Jatíbi jabuen yóra jacón icás̈hbira chántores iqui</sentence>
+        <sentence lang="es">El tiene buena salud, a pesar de ser cojo</sentence>
+    </text>
+    <text id="23.13">
+        <sentence lang="shp">Nato báquera jabuen titán chánloaque sináshon</sentence>
+        <sentence lang="es">A ese muchacho su mamá ío volvió cojo en un momento de enojo</sentence>
     </text>
 </parallel>
