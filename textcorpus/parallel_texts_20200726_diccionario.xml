@@ -3913,7 +3913,287 @@
         <sentence lang="es">Hace años los patrones no nos pagaban con dinero sino sólo con cosas</sentence>
     </text>
     <text id="22.8">
-        <sentence lang="shp">Huíshahue coríquibo</sentence>
+        <sentence lang="shp">Huíshahue nato coríquibo</sentence>
         <sentence lang="es">Escribe estas cantidades de dinero</sentence>
+    </text>
+    <text id="22.9">
+        <sentence lang="shp">Jós̈hocoriqui bénaquinbira en mérayamai</sentence>
+        <sentence lang="es">Aunque busco monedas de cinco décimos, no las puedo hallar</sentence>
+    </text>
+    <text id="22.10">
+        <sentence lang="shp">Yómetsoninra panshíncoriqui bóque, s̈hóbo meranoa</sentence>
+        <sentence lang="es">Un ladrón se llevó dinero hecho de latón, cuando entró en la casa</sentence>
+    </text>
+    <text id="22.11">
+        <sentence lang="shp">Jenényoshinbaon péicoriquironquiqui huáme ras̈hcan</sentence>
+        <sentence lang="es">Dicen que los billetes de los demonios del agua son las escamas de *paiche</sentence>
+    </text>
+    <text id="22.12">
+        <sentence lang="shp">Jénepanshian huéamanronqui coríquinin tita iqui</sentence>
+        <sentence lang="es">Dicen que en la quebrada Jenepanshea hay minas de plata</sentence>
+    </text>
+    <text id="22.13">
+        <sentence lang="shp">Titán chítóntira córocoroisi iqui</sentence>
+        <sentence lang="es">La *pampanilla de mamá es de un color gris que resalta</sentence>
+    </text>
+    <text id="22.14">
+        <sentence lang="shp">Iquirisia behuára córoya iqui</sentence>
+        <sentence lang="es">Las canciones de la iglesia tienen coros</sentence>
+    </text>
+    <text id="22.15">
+        <sentence lang="shp">Béro córoati shináns̈honra jahuen ráhuican berónco tímaque tímaque</sentence>
+        <sentence lang="es">Su enemigo le dio un puñetazo en el ojo, porque quería dañarle la vista</sentence>
+    </text>
+    <text id="22.16">
+        <sentence lang="shp">Su enemigo le dio un puñetazo en el ojo, porque quería dañarle la vista</sentence>
+        <sentence lang="es">Córocoronra báque jamáquin sión imaque</sentence>
+    </text>
+    <text id="22.17">
+        <sentence lang="shp">Sontárobora córonita íibeirani bécanai</sentence>
+        <sentence lang="es">Los soldados vienen tocando sus cornetas</sentence>
+    </text>
+    <text id="22.18">
+        <sentence lang="shp">Báquebora rabé córopo íti iqui</sentence>
+        <sentence lang="es">Los niños estarán en dos grupos</sentence>
+    </text>
+    <text id="22.19">
+        <sentence lang="shp">¿Jáhuequescarin parántanin coróro?</sentence>
+        <sentence lang="es">¿De qué color es el plátano?</sentence>
+    </text>
+    <text id="22.20">
+        <sentence lang="shp">Jonínra jahuen rahuí corósaquin pereque</sentence>
+        <sentence lang="es">Un hombre hizo con el machete un corte en forma de cruz en La espalda de su enemigo</sentence>
+    </text>
+    <text id="22.21">
+        <sentence lang="shp">Báquera náshimas̈hon páerinin corós ménique</sentence>
+        <sentence lang="es">El sacerdote bautizó al muchacho y le dio un crucifijo</sentence>
+    </text>
+    <text id="22.22">
+        <sentence lang="shp">Moátianronqui Jísoquiristo córosen acáníque</sentence>
+        <sentence lang="es">Según la historia, en la antigüedad crucificaron a Jesucristo</sentence>
+    </text>
+    <text id="22.23">
+        <sentence lang="shp">Huíso icás̈hbira moa córoque</sentence>
+        <sentence lang="es">Era negro, pero se volvió gris</sentence>
+    </text>
+    <text id="22.24">
+        <sentence lang="shp">Báque béro córoquetíanra rócotoron ráonai</sentence>
+        <sentence lang="es">El doctor trata a un niño que tiene una mancha gris en el ojo</sentence>
+    </text>
+    <text id="22.25">
+        <sentence lang="shp">Cósiniranra atapa jéne yoyóque</sentence>
+        <sentence lang="es">La cocinera desperdició el caldo de gallina</sentence>
+    </text>
+    <text id="22.26">
+        <sentence lang="shp">Nato chópara nocon títana bebónbires cóshi iqui</sentence>
+        <sentence lang="es">Esta tela es más fuerte que la de mi mamá </sentence>
+    </text>
+    <text id="22.27">
+        <sentence lang="shp">cóshi Riós</sentence>
+        <sentence lang="es">el Dios soberano</sentence>
+    </text>
+    <text id="22.28">
+        <sentence lang="shp">Non coshín yóia jóibicho senénhas̈honon acánhue</sentence>
+        <sentence lang="es">Obedezcamos solamente las palabras de nuestro líder</sentence>
+    </text>
+    <text id="22.29">
+        <sentence lang="shp">Yósma iquénbi íshtomas̈honra cóshiaque</sentence>
+        <sentence lang="es">Aunque era débil, lo entregaron haciéndolo correr</sentence>
+    </text>
+    <text id="22.30">
+        <sentence lang="shp">Coshín saíahue; min áyamaara nincáyamai</sentence>
+        <sentence lang="es">Grítale con voz fuerte; si no, no te va a oír</sentence>
+    </text>
+    <text id="22.31">
+        <sentence lang="shp">Piróta áatira moa cóshique</sentence>
+        <sentence lang="es">Se ha vuelto fuerte de tanto jugar fútbol</sentence>
+    </text>
+    <text id="22.32">
+        <sentence lang="shp">Más̈hcaas̈hbira moa cóshiai</sentence>
+        <sentence lang="es">Se ha desmayado, pero ya se está moviendo</sentence>
+    </text>
+    <text id="22.33">
+        <sentence lang="shp">Nato simánanin nontée anón acanhue, non ajíntiqui cóshis̈hon</sentence>
+        <sentence lang="es">Esta semana hagamos el trabajo dependiendo de nuestro agente</sentence>
+    </text>
+    <text id="22.34">
+        <sentence lang="shp">Non ápora jóai; jáqui cóshisbon coríqui yocánon acahuen</sentence>
+        <sentence lang="es">Nuestro presidente viene; tengámosle confianza y pidámosle dinero</sentence>
+    </text>
+    <text id="22.35">
+        <sentence lang="shp">Paéns̈honra jonín, titán cósho tóeque</sentence>
+        <sentence lang="es">El hombre borracho chancó este envase cósho de mamá</sentence>
+    </text>
+    <text id="22.36">
+        <sentence lang="shp">Huétsabo áti shínanira yobé janbís̈h cóshomeeque</sentence>
+        <sentence lang="es">El brujo se hechizó por querer hechizar a otros</sentence>
+    </text>
+    <text id="22.37">
+        <sentence lang="shp">Néinonin cóshonaronqui noa yorán chés̈hai</sentence>
+        <sentence lang="es">Dicen que cuando el *lobo marino nos hechiza, sentimos dolor por todo el cuerpo</sentence>
+    </text>
+    <text id="22.38">
+        <sentence lang="shp">Jenényoshiman ináaronquiqui cóshori</sentence>
+        <sentence lang="es">Dicen que el cushuri es la cría de los demonios acuáticos</sentence>
+    </text>
+    <text id="22.39">
+        <sentence lang="shp">Coshóshcanin yótoaronqui noa pórocan chés̈hai</sentence>
+        <sentence lang="es">Dicen que cuando el bufeo nos embruja, sentimos dolor de estómago</sentence>
+    </text>
+    <text id="22.40">
+        <sentence lang="shp">Cocánra coshpámparo ícha biá iqui</sentence>
+        <sentence lang="es">Mi tío por parte de madre, consiguió muchos peces coshpámparo </sentence>
+    </text>
+    <text id="22.41">
+        <sentence lang="shp">Oa jónira coshpánya iqui, s̈hoáyora icas̈h</sentence>
+        <sentence lang="es">Aquel hombre tiene papada porque es muy gordo</sentence>
+    </text>
+    <text id="22.42">
+        <sentence lang="shp">Coshquís̈honra motóronin tás̈ha tsácaque</sentence>
+        <sentence lang="es">Al atravesarse el *motor, se choco contra la paliza</sentence>
+    </text>
+    <text id="22.43">
+        <sentence lang="shp">Titán cóshcochi ináara misbíton pique</sentence>
+        <sentence lang="es">El gato se comió la paloma cós̈hcochi que mamá crió</sentence>
+    </text>
+    <text id="22.44">
+        <sentence lang="shp">Moa más̈hcaira cós̈hcoranique</sentence>
+        <sentence lang="es">Al expirar, dio un estertor</sentence>
+    </text>
+    <text id="22.45">
+        <sentence lang="shp">Moa báriapan senénquetianronqui cos̈hcos̈htobi quéotai</sentence>
+        <sentence lang="es">Dicen que la paloma cos̈hcos̈htobi canta exactamente al mediodía para indicar la hora</sentence>
+    </text>
+    <text id="22.46">
+        <sentence lang="shp">Nocon chái en átsasheati cóshetabira ea shéashoncashamaque</sentence>
+        <sentence lang="es">Aunque le ofrecí el * masato, mi cuñado no quiso beberlo</sentence>
+    </text>
+    <text id="22.47">
+        <sentence lang="shp">Papánra cós̈ho tóoaquinbi quéneque</sentence>
+        <sentence lang="es">Papá le disparó al pavo del monte, pero no acertó</sentence>
+    </text>
+    <text id="22.48">
+        <sentence lang="shp">Titán cos̈hónehua píquetianra jahuen báque chis̈hóque</sentence>
+        <sentence lang="es">La madre comió carne de pava cos̈hónehua, y su hijito se enfermó de diarrea</sentence>
+    </text>
+    <text id="22.49">
+        <sentence lang="shp">Manánshahuen coshóiishehua píaitianra en bílbaque</sentence>
+        <sentence lang="es">Ayer conseguí un *motelo mientras comía los frutos del árbol cos̈hóns̈hehua</sentence>
+    </text>
+    <text id="22.50">
+        <sentence lang="shp">Cós̈hopeos̈hen báque cópiaronqui huísoai</sentence>
+        <sentence lang="es">Dicen que cuando el árbol cóshopeosh *cutipa a un niño, su cuerpo ennegrece</sentence>
+    </text>
+    <text id="22.51">
+        <sentence lang="shp">Papán ahuínhuetsan cotónra jéne meran cáque</sentence>
+        <sentence lang="es">La blusa de la cuñada de papá se cayó al agua</sentence>
+    </text>
+    <text id="22.52">
+        <sentence lang="shp">Jahuen cótoman yómetsoai méras̈honra coáratia queshánque</sentence>
+        <sentence lang="es">Cuando vio que alguien le robaba su camisa, se lo dijo a un guardia</sentence>
+    </text>
+    <text id="22.53">
+        <sentence lang="shp">Jamanra cóyaparo páenai</sentence>
+        <sentence lang="es">En la cocha se *marean los tucunarís</sentence>
+    </text>
+    <text id="22.54">
+        <sentence lang="shp">Coyénquera natés̈hmisma iqui</sentence>
+        <sentence lang="es">La lagartija coyénque no es venenosa</sentence>
+    </text>
+    <text id="22.55">
+        <sentence lang="shp">Mishquín ratanra cóyo nápocooque</sentence>
+        <sentence lang="es">Las hormiguitas cóyo se introdujeron en la lata de miel</sentence>
+    </text>
+    <text id="22.56">
+        <sentence lang="shp">Nato báquera cóyobochoqui ráquetai</sentence>
+        <sentence lang="es">Este niño tiene miedo del ave cóyobocho</sentence>
+    </text>
+    <text id="22.57">
+        <sentence lang="shp">chanto</sentence>
+        <sentence lang="es">sin el uso de las dos piemas</sentence>
+    </text>
+    <text id="22.58">
+        <sentence lang="shp">Ochóchaa cás̈ha nocóque</sentence>
+        <sentence lang="es">Al ir un poco más lejos, llegó</sentence>
+    </text>
+    <text id="22.59">
+        <sentence lang="shp">¿Jáhueratoqui nénquecha iqui, papán nónti o epána?</sentence>
+        <sentence lang="es">¿Cual es más larga, la canoa de papá o la del tío?</sentence>
+    </text>
+    <text id="22.60">
+        <sentence lang="shp">Yamé cháa quéotaronqui róati ícai</sentence>
+        <sentence lang="es">Dicen que cuando el pajarito cháa canta de noche, es señal de mal agüero</sentence>
+    </text>
+    <text id="22.61">
+        <sentence lang="shp">Chabínra papán s̈hepóti quepénque</sentence>
+        <sentence lang="es">El padre abrió la puerta con la llave</sentence>
+    </text>
+    <text id="22.62">
+        <sentence lang="shp">Nato báquera paránta chacá pícasai</sentence>
+        <sentence lang="es">Este niño quiere comer plátano machucado</sentence>
+    </text>
+    <text id="22.63">
+        <sentence lang="shp">Paranta satanasha chacatai</sentence>
+        <sentence lang="es">Cuando el plátano engorda se raja</sentence>
+    </text>
+    <text id="22.64">
+        <sentence lang="shp">Máí chacá icain jámatas̈ha jóni tasquéque</sentence>
+        <sentence lang="es">Al pisar sobre la tierra agrietada, el hombre se dislocó el pie</sentence>
+    </text>
+    <text id="22.65">
+        <sentence lang="shp">Báquera mesquéque mái chacá meran cáas̈h</sentence>
+        <sentence lang="es">El niño se fracturó la mano al caerse en la hendidura del suelo</sentence>
+    </text>
+    <text id="22.66">
+        <sentence lang="shp">Chacásh aquinra noa béchoman réoque</sentence>
+        <sentence lang="es">Cuando las olas golpeaban contra nuestra embarcación, nos volcamos</sentence>
+    </text>
+    <text id="22.67">
+        <sentence lang="shp">Nóntiqui bechón chacásh iquinra báque jéne s̈héamaque</sentence>
+        <sentence lang="es">Cuando las olas golpeaban contra la canoa, entró agua en la boca dei niño</sentence>
+    </text>
+    <text id="22.68">
+        <sentence lang="shp">Cárapintíronínra jahuen mequén chácaque</sentence>
+        <sentence lang="es">El carpintero se machucó la mano</sentence>
+    </text>
+    <text id="22.69">
+        <sentence lang="shp">Nocon pápashoconra yámi chácas̈hon chicároai</sentence>
+        <sentence lang="es">Mi abuelito hace un arpón martillando un pedazo de fierro</sentence>
+    </text>
+    <text id="22.70">
+        <sentence lang="shp">Nocon pápanra jahuen metoti maratichon chacáque</sentence>
+        <sentence lang="es">Mi papá se machucó el dedo con un martillo</sentence>
+    </text>
+    <text id="22.71">
+        <sentence lang="shp">Non paránta chácataronqui aínbo baqueati iqui</sentence>
+        <sentence lang="es">Dicen que cuando el plátano se raja por algún motivo, indica que tendremos una hija</sentence>
+    </text>
+    <text id="22.72">
+        <sentence lang="shp">Báriaitianra mái chácatai</sentence>
+        <sentence lang="es">En el verano, la tierra se agrieta</sentence>
+    </text>
+    <text id="22.73">
+        <sentence lang="shp">Miara cóchi quescayora, píi chacóicai</sentence>
+        <sentence lang="es">Comes como los chanchos, masticando ruidosamente</sentence>
+    </text>
+    <text id="22.74">
+        <sentence lang="shp">Titánra papán bémanain mas̈hén chacháaque</sentence>
+        <sentence lang="es">Mamá pintó la cara de papá con puntitos de *achiote</sentence>
+    </text>
+    <text id="22.75">
+        <sentence lang="shp">Non as̈hé riqui báque mahuáquetian nanén chacháti</sentence>
+        <sentence lang="es">Es nuestra costumbre pintarnos con puntitos de *huito cuando muere un hijo</sentence>
+    </text>
+    <text id="22.76">
+        <sentence lang="shp">Jahuen chachí isín íquetianra pápa jóyamai</sentence>
+        <sentence lang="es">Papá no puede venir porque la picadura le duele</sentence>
+    </text>
+    <text id="22.77">
+        <sentence lang="shp">Rámara mia rabé chachíres mas̈hcáque — aquinra ea rócotoron áque</sentence>
+        <sentence lang="es">El doctor m e dijo que ahora me faltan sólo dos inyecciones</sentence>
+    </text>
+    <text id="22.78">
+        <sentence lang="shp">Tonón, íspiara cháchimís iqui</sentence>
+        <sentence lang="es">El *bagre es un pez que hinca porque tiene púas</sentence>
     </text>
 </parallel>
