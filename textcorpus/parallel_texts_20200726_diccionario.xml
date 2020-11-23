@@ -4337,7 +4337,151 @@
         <sentence lang="es">El tiene buena salud, a pesar de ser cojo</sentence>
     </text>
     <text id="23.13">
-        <sentence lang="shp">Nato báquera jabuen titán chánloaque sináshon</sentence>
-        <sentence lang="es">A ese muchacho su mamá ío volvió cojo en un momento de enojo</sentence>
+        <sentence lang="shp">Nato báquera jabuen titán chántoaque sinás̈hon</sentence>
+        <sentence lang="es">A ese muchacho su mamá lo volvió cojo en un momento de enojo</sentence>
+    </text>
+    <text id="23.14">
+        <sentence lang="shp">Jonínra jahuen báque chántoaque sontáro cámacashamaquin</sentence>
+        <sentence lang="es">Un hombre hizo cojear a su hijo para que no fuera al ejército</sentence>
+    </text>
+    <text id="23.15">
+        <sentence lang="shp">Chantómari jeneronqui s̈héatima iqui</sentence>
+        <sentence lang="es">Dicen que el agua del manantial chantómari no es potable</sentence>
+    </text>
+    <text id="23.16">
+        <sentence lang="shp">Químisha ós̈he ísinas̈ha nocon báque cbántoque</sentence>
+        <sentence lang="es">Mí hijito se volvió cojo porque estuvo enfermo tres meses</sentence>
+    </text>
+    <text id="23.17">
+        <sentence lang="shp">Nocon táera en chapáaque réraquin, jíhui ati shinánquin</sentence>
+        <sentence lang="es">Cuando quise cortar el árbol, me corté el pie por casualidad</sentence>
+    </text>
+    <text id="23.18">
+        <sentence lang="shp">Nocon mequén chapataincora ea bonán técaque</sentence>
+        <sentence lang="es">En un pliegue de mis dedos me picó una *isula</sentence>
+    </text>
+    <text id="23.19">
+        <sentence lang="shp">Jíhui chapatainoara papán róo tóoaque</sentence>
+        <sentence lang="es">Papá baleó al *coto que estaba sentado en la horquilla</sentence>
+    </text>
+    <text id="23.20">
+        <sentence lang="shp">Nato páro chapataincora motóro réocooque</sentence>
+        <sentence lang="es">El *motor se volcó aguas arribas en la confluencia de este río</sentence>
+    </text>
+    <text id="23.21">
+        <sentence lang="shp">Nato párora sénenainbi chapáque</sentence>
+        <sentence lang="es">El río Ucayali se bifurca en su terminación (es decir, en la confluencia de los ríos Tambo y Urubamba).</sentence>
+    </text>
+    <text id="23.22">
+        <sentence lang="shp">Nato bái cáara moa sénenain chapáque</sentence>
+        <sentence lang="es">El camino que sigue se bifurca al final</sentence>
+    </text>
+    <text id="23.23">
+        <sentence lang="shp">Oi benónronqui cháqui quéotai</sentence>
+        <sentence lang="es">Dicen que cuando va a llover, el sapito cháqui canta</sentence>
+    </text>
+    <text id="23.24">
+        <sentence lang="shp">Néri joé, chaqui</sentence>
+        <sentence lang="es">Ven acá, varoncito</sentence>
+    </text>
+    <text id="23.25">
+        <sentence lang="shp">Jahuen titán asócaro charáacatoninra nato báque menóque</sentence>
+        <sentence lang="es">Este niño se quemó con el azúcar que su mamá había derretido</sentence>
+    </text>
+    <text id="23.26">
+        <sentence lang="shp">Sémpara en charáacai nonti boyanoshon</sentence>
+        <sentence lang="es">Estoy derritiendo el 'copal para remendar la canoa</sentence>
+    </text>
+    <text id="23.27">
+        <sentence lang="shp">En ípo bachi biábira barín charáaque</sentence>
+        <sentence lang="es">Los huevos de *carachama que conseguí se derritieron en el sol</sentence>
+    </text>
+    <text id="23.28">
+        <sentence lang="shp">En táhua nea pótaara Chárairique</sentence>
+        <sentence lang="es">El grupo de las *cañabravas atadas que boté resonaron al caerse al suelo</sentence>
+    </text>
+    <text id="23.29">
+        <sentence lang="shp">Epán charánhua beá picáshamaira báque huíniai</sentence>
+        <sentence lang="es">El niño llora porque no quiere comer el achacubo que su tío ha traído</sentence>
+    </text>
+    <text id="23.30">
+        <sentence lang="shp">Charás̈h báque riqui quiquín s̈hoás̈hoco</sentence>
+        <sentence lang="es">La cría del catalán es muy gordita</sentence>
+    </text>
+    <text id="23.31">
+        <sentence lang="shp">Charás̈h jonínronqui aínbo abuínanique</sentence>
+        <sentence lang="es">Cuentan que cierta vez el hombre catalán se casó con una mujer</sentence>
+    </text>
+    <text id="23.32">
+        <sentence lang="shp">Papánra jahuen píabo chára acai</sentence>
+        <sentence lang="es">Papá está agitando sus flechas</sentence>
+    </text>
+    <text id="23.33">
+        <sentence lang="shp">Barín acára nocon téri charáque, en bens̈hoayamaa</sentence>
+        <sentence lang="es">No puse en su sitio la brea téri, y se derritió por el calor del sol</sentence>
+    </text>
+    <text id="23.34">
+        <sentence lang="shp">Títán átsa jóaara jéne quéyotas̈h yámiquenti charáque</sentence>
+        <sentence lang="es">Se secó el agua de la yuca que mamá cocinaba y la olla de aluminio se fundió</sentence>
+    </text>
+    <text id="23.35">
+        <sentence lang="shp">Papán s̈héqui bánaara charín quéyoai</sentence>
+        <sentence lang="es">Los shamiros devoran el maíz que papá sembró</sentence>
+    </text>
+    <text id="23.36">
+        <sentence lang="shp">Moátianronqui huestíora yósishocoqui matsín charíshaa nócocaníque</sentence>
+        <sentence lang="es">Cuentan que en la antigüedad encontraron por casualidad a un viejito atiesado por el frío</sentence>
+    </text>
+    <text id="23.37">
+        <sentence lang="shp">Aínbo mábuatara moa charíshque, rabé néte icas̈h</sentence>
+        <sentence lang="es">El cuerpo de la mujer se atiesó porque hacía dos días que había muerto</sentence>
+    </text>
+    <text id="23.38">
+        <sentence lang="shp">Moa cabórinin cháro joconaitianronqui jóo quéotai</sentence>
+        <sentence lang="es">Dicen que cuando las crías de *taricaya salen de los huevos, cantan los *gualos</sentence>
+    </text>
+    <text id="23.39">
+        <sentence lang="shp">Huáiroronra jato yatáns̈hon cbarónque jato catónos̈hon</sentence>
+        <sentence lang="es">El guardia tos reclutó y los puso en fila para escogerlos para el ejército</sentence>
+    </text>
+    <text id="23.40">
+        <sentence lang="shp">Papán rábo cháronara yómetsonin jamáque</sentence>
+        <sentence lang="es">El ladrón pisó los clavos parados que papá había puesto</sentence>
+    </text>
+    <text id="23.41">
+        <sentence lang="shp">Jatíbi jónira campón charóque tsínicanai óini</sentence>
+        <sentence lang="es">Toda la gente está parada en el campo mirando a los jugadores</sentence>
+    </text>
+    <text id="23.42">
+        <sentence lang="shp">Noa bénotas̈hbira noa jóque chashí méraas̈hes</sentence>
+        <sentence lang="es">Nos habíamos extraviado en el *monte, pero regresamos sólo porque encontramos las ramitas quebradas que indicaban la trocha</sentence>
+    </text>
+    <text id="23.43">
+        <sentence lang="shp">Machítooma is̈honra en cháshiresque</sentence>
+        <sentence lang="es">No tenía machete; solamente quebré unas ramitas</sentence>
+    </text>
+    <text id="23.44">
+        <sentence lang="shp">En tíiacamabira janbís̈h chashíque</sentence>
+        <sentence lang="es">Sin que yo la tocara, se quebró</sentence>
+    </text>
+    <text id="23.45">
+        <sentence lang="shp">Nocon chaín huíntianos̈hon jíhui chás̈haara jóni yómetsoque</sentence>
+        <sentence lang="es">Un hombre robó el madero que mi cuñado había labrado para hacer un remo</sentence>
+    </text>
+    <text id="23.46">
+        <sentence lang="shp">Manáns̈hahuenronqui chás̈ho piní rétemanique</sentence>
+        <sentence lang="es">Cuentan que los *motelos mataron a un venado haciéndole cansar</sentence>
+    </text>
+    <text id="23.47">
+        <sentence lang="shp">Titán cháshobichi chíneshetira ochítinin boque</sentence>
+        <sentence lang="es">El perro se llevó la faja de cuero de venado de mamá</sentence>
+    </text>
+    <text id="23.48">
+        <sentence lang="shp">Moátianronqui cáochonin téequin chas̈hósh picáticanai</sentence>
+        <sentence lang="es">Dicen que en el tiempo que trabajaban con caucho comían renacuajos chashósh</sentence>
+    </text>
+    <text id="23.49">
+        <sentence lang="shp">Icha néte náshimayamaquinra aínbaon jahuen báque cheáaque</sentence>
+        <sentence lang="es"> Una madre volvió anémica a su hijo por no bañarlo durante muchos días</sentence>
     </text>
 </parallel>
