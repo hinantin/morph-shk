@@ -7065,8 +7065,464 @@
         <sentence lang="es">Si cuidas bien a mi hijito, te pagaré</sentence>
     </text>
     <text id="29.97">
-        <sentence lang=""></sentence>
-        <sentence lang=""></sentence>
+        <sentence lang="shp">Jacónresi noa réocootaincora benés iantanque</sentence>
+        <sentence lang="es">Felizmente donde nos volcamos no era muy profundo</sentence>
+    </text>
+    <text id="29.98">
+        <sentence lang="shp">Róocoya jóni nocon s̈hóbomeas̈h picóquetianra ea jacónque</sentence>
+        <sentence lang="es">Cuando un hombre con tos ferina salió de mi casa，me sentí mejor</sentence>
+    </text>
+    <text id="29.99">
+        <sentence lang="shp">Nato jonínra nocon machíto ea séquenaanque; jácopira en moa bómayamai</sentence>
+        <sentence lang="es">Este hombre rompió mi machete, y por eso ya no permito que se lo lleve</sentence>
+    </text>
+    <text id="30.0">
+        <sentence lang="shp">¿Jáhuequi jaín joai?</sentence>
+        <sentence lang="es">¿Qué viene?</sentence>
+    </text>
+    <text id="30.1">
+        <sentence lang="shp">Huestíora jónira mia onáncasai, jáhue ainborin mia is̈hon</sentence>
+        <sentence lang="es">Un hombre te quiere conocer y quiere saber de qué tribu eres</sentence>
+    </text>
+    <text id="30.2">
+        <sentence lang="shp">¿Jáhue joni icas̈hqui，nato jóni jascati yóyoicai?</sentence>
+        <sentence lang="es">¿De qué tribu será este hombre que habla así?</sentence>
+    </text>
+    <text id="30.3">
+        <sentence lang="shp">¿Jáhueaquiqui mia ráquetai?</sentence>
+        <sentence lang="es">¿Por qué tienes miedo?</sentence>
+    </text>
+    <text id="30.4">
+        <sentence lang="shp">¿Jáhueatiqui min ea paráns̈hon ráana?</sentence>
+        <sentence lang="es">¿Por qué me has enviado con engaños?</sentence>
+    </text>
+    <text id="30.5">
+        <sentence lang="shp">Nato jónira moa jáhuebi quéenyamai, quíquini sínata icas̈h</sentence>
+        <sentence lang="es">Este hombre no quiere nada porque está muy enojado</sentence>
+    </text>
+    <text id="30.6">
+        <sentence lang="shp">Níhueabanaponbi caíra rícaton réocooque; jáscatas̈ha jáhuebioma banéque</sentence>
+        <sentence lang="es">El regatón naufragó al ir por el río en pleno ventarrón; y así se quedó sin nada</sentence>
+    </text>
+    <text id="30.7">
+        <sentence lang="shp">Nato botíriara jáhuebioma iqui</sentence>
+        <sentence lang="es">Esta botella esta vacía</sentence>
+    </text>
+    <text id="30.8">
+        <sentence lang="shp">¿Jáhuecopiqui min ea téemaa coríquioma is̈hónbi?</sentence>
+        <sentence lang="es">¿Por qué me has hecho trabajar si no tenías dinero?</sentence>
+    </text>
+    <text id="30.9">
+        <sentence lang="shp">Bóchiquías̈h nocon báque paquéquetianra ea jonín yocáque: ¿Jáhuemeas̈hqui min báque páqueta? » aquin. Játian en yóique: Caímitomeas̈h —aquin</sentence>
+        <sentence lang="es">Cuando se cayó mi hijo, un hombre me preguntó: —¿De dónde se ha caído tu hijito? Y le dije: -Del *caimito</sentence>
+    </text>
+    <text id="30.10">
+        <sentence lang="shp">¿Jahuénqui nato piá?</sentence>
+        <sentence lang="es">¿Qué animal ha comido ésto?</sentence>
+    </text>
+    <text id="30.11">
+        <sentence lang="shp">¿Jahuénqui nato huísoino min rétea? — aquinqui jonín jahuen ahuín acá iqui</sentence>
+        <sentence lang="es">Cuentan que un hombre preguntó a su esposa: — ¿Con qué mataste este *yanapuma?</sentence>
+    </text>
+    <text id="30.12">
+        <sentence lang="shp">¿Jahuénqui mia Cacónconias̈h joá?</sentence>
+        <sentence lang="es">¿En qué viniste de Caco?</sentence>
+    </text>
+    <text id="30.13">
+        <sentence lang="shp">Ambaonronqui jahuen benén yamín íno rétenique</sentence>
+        <sentence lang="es">Cuentan que cierta vez una mujer mató a un *tigre con el hacha de su esposo</sentence>
+    </text>
+    <text id="30.14">
+        <sentence lang="shp">¿Jáhuequesca jónirín náto?</sentence>
+        <sentence lang="es">¿Qué clase de hombre es éste?</sentence>
+    </text>
+    <text id="30.15">
+        <sentence lang="shp">¿Miaqui jáhuequesca iqui?</sentence>
+        <sentence lang="es">¿Cómo estás?</sentence>
+    </text>
+    <text id="30.16">
+        <sentence lang="shp">Yatáns̈honqui mia, ¿jáhuequescaa?</sentence>
+        <sentence lang="es">¿Qué te hizo cuando te agarró?</sentence>
+    </text>
+    <text id="30.17">
+        <sentence lang="shp">¿Játianqui jáhuequescacaa?</sentence>
+        <sentence lang="es">¿Entonces qué hicieron?</sentence>
+    </text>
+    <text id="30.18">
+        <sentence lang="shp">¿Jáhuequescarainrin min ánibo?</sentence>
+        <sentence lang="es">¿Dónde están tus padres?</sentence>
+    </text>
+    <text id="30.19">
+        <sentence lang="shp">Eara Rimán catánque jáhuequescaas̈honqui chópaacanai is̈hon óíni</sentence>
+        <sentence lang="es">Fui a Lima a ver como fabrican las telas</sentence>
+    </text>
+    <text id="30.20">
+        <sentence lang="shp">¿Moa yatáncana icas̈hbiqui, mia jáhuequescatas̈h pícota?</sentence>
+        <sentence lang="es">¿Cómo te escapaste a pesar de que te agarraron?</sentence>
+    </text>
+    <text id="30.21">
+        <sentence lang="shp">¿Jáhuequescatiqui mia huíniresai? Rámara en mia ráo s̈héamai</sentence>
+        <sentence lang="es">¿Por qué sigues llorando? Ahora te voy a dar un remedio</sentence>
+    </text>
+    <text id="30.22">
+        <sentence lang="shp">lcha jahuéquironqui biántanque</sentence>
+        <sentence lang="es">Dicen que adquirió muchas cosas</sentence>
+    </text>
+    <text id="30.23">
+        <sentence lang="shp">Inora siná jahuéqui ¡qui</sentence>
+        <sentence lang="es">El *tígre es un animal feroz</sentence>
+    </text>
+    <text id="30.24">
+        <sentence lang="shp">Jahuéqui bóchiqui nóyai en óinabira, naícoinman bépoque</sentence>
+        <sentence lang="es">Aunque divisé aves que volaban allí arriba, las nubes las cubrieron</sentence>
+    </text>
+    <text id="30.26">
+        <sentence lang="shp">Cáchiora ea catánque; cas̈hón: óinara íaman jahuéqui páeni ícha íque</sentence>
+        <sentence lang="es">Fui al 'monte y vi que muchos peces se *mareaban en la *cocha</sentence>
+    </text>
+    <text id="30.27">
+        <sentence lang="shp">Nocon jahuéqui banara ea nihuén pós̈hanaanque</sentence>
+        <sentence lang="es">Mis árboles plantados fueron tumbados por el viento</sentence>
+    </text>
+    <text id="30.28">
+        <sentence lang="shp">Jatíbira min jacón acá iqui; icás̈hbira mia huestíora jahuéquibicho mas̈hcáque</sentence>
+        <sentence lang="es">Todo lo hiciste bien, pero te falta una sola cosa</sentence>
+    </text>
+    <text id="30.29">
+        <sentence lang="shp">Pátoronbora jahuéquia jóni icátiai</sentence>
+        <sentence lang="es">Los patrones eran hombres ricos</sentence>
+    </text>
+    <text id="30.30">
+        <sentence lang="shp">Jahuéqui acai jonínra, jacónhaquin nónti ácai</sentence>
+        <sentence lang="es">Un hombre experto hace una buena canoa</sentence>
+    </text>
+    <text id="30.31">
+        <sentence lang="shp">Noara jahuéquioma iqui, téeti onáma ícas̈h</sentence>
+        <sentence lang="es">Somos pobres porque no sabemos trabajar</sentence>
+    </text>
+    <text id="30.32">
+        <sentence lang="shp">Yamé nocoshonra potóquin jahuéquiaque</sentence>
+        <sentence lang="es">Al llegar de noche, comió algo hasta saciarse</sentence>
+    </text>
+    <text id="30.33">
+        <sentence lang="shp">¿Jáhueranorin min pápa?</sentence>
+        <sentence lang="es">¿Dónde está tu papá?</sentence>
+    </text>
+    <text id="30.34">
+        <sentence lang="shp">¿Jáhueranoqui cáa nocon tita?</sentence>
+        <sentence lang="es">¿A dónde se ha ido mi mamá?</sentence>
+    </text>
+    <text id="30.35">
+        <sentence lang="shp">¿Jáhueranoqui min acá machíto?</sentence>
+        <sentence lang="es">¿Dónde has puesto el machete?</sentence>
+    </text>
+    <text id="30.36">
+        <sentence lang="shp">¿Jáhueranoaqui min nocon épa óina?</sentence>
+        <sentence lang="es">¿En dónde has visto a mi tío paterno?</sentence>
+    </text>
+    <text id="30.37">
+        <sentence lang="shp">¿Jáhueranoaqui min yámi biá?</sentence>
+        <sentence lang="es">¿Dónde has conseguido el hacha</sentence>
+    </text>
+    <text id="30.38">
+        <sentence lang="shp">¿Jáhuer£moa5hqui mia joá?</sentence>
+        <sentence lang="es">¿De dónde has venido?</sentence>
+    </text>
+    <text id="30.39">
+        <sentence lang="shp">¿Míaquí jáhueranoas̈h joá?</sentence>
+        <sentence lang="es">¿De dónde has venido?</sentence>
+    </text>
+    <text id="30.40">
+        <sentence lang="shp">¿Jáhueranos̈hon acárin en mia jáscara jói yóiquin?</sentence>
+        <sentence lang="es">¿En cuál sitio te dije tales palabras sobre este asunto?</sentence>
+    </text>
+    <text id="30.41">
+        <sentence lang="shp">¿Jáhuerao cácasiqui mia íihuana? </sentence>
+        <sentence lang="es">¿En qué dirección querías ir hace un rato?</sentence>
+    </text>
+    <text id="30.42">
+        <sentence lang="shp">Jáhueraoqui mía cái, jáinra ea cái</sentence>
+        <sentence lang="es">¿Por dónde te vas? —por allí me voy</sentence>
+    </text>
+    <text id="30.43">
+        <sentence lang="shp">¿Jáhueraoquea báirin nato jan noa cái?</sentence>
+        <sentence lang="es">¿Qué dirección tiene este camino por el cual vamos?</sentence>
+    </text>
+    <text id="30.44">
+        <sentence lang="shp">¿Jáhueraoqueas̈hqui jóni saíica?</sentence>
+        <sentence lang="es">¿Más o menos, de qué lugar gritó el hombre?</sentence>
+    </text>
+    <text id="30.45">
+        <sentence lang="shp">Nenóns̈honbi mánahue, jahueraoqueashquí jóai min oínon</sentence>
+        <sentence lang="es">Espera aquí mismo para ver en qué dirección viene</sentence>
+    </text>
+    <text id="30.46">
+        <sentence lang="shp">¿Jáhueraos̈hon tóoati píshacanaqui non níncata?</sentence>
+        <sentence lang="es">¿De qué dirección los hemos escuchado disparar sus armas?</sentence>
+    </text>
+    <text id="30.47">
+        <sentence lang="shp">¿Jáhueratoqui mia guéenai?</sentence>
+        <sentence lang="es">¿Cuál quieres?</sentence>
+    </text>
+    <text id="30.48">
+        <sentence lang="shp">¿Jáhuetianqui mia réboqui cái?</sentence>
+        <sentence lang="es">¿Cuándo te vas a ir aguas arriba?</sentence>
+    </text>
+    <text id="30.49">
+        <sentence lang="shp">¿Jáhuetianboqui íno níai?</sentence>
+        <sentence lang="es">¿En qué tiempo camina el *tigre?</sentence>
+    </text>
+    <text id="30.50">
+        <sentence lang="shp">Min nocon jói sénenhayamaitianra, en mía jáhuetianbi copiayamanos̈h iqui</sentence>
+        <sentence lang="es">Si no cumples mis órdenes, jamás te pagaré</sentence>
+    </text>
+    <text id="30.51">
+        <sentence lang="shp">¿Jáhuetii jóniqui Máioshiain bocana?</sentence>
+        <sentence lang="es">¿Cuántas personas han ido a Pucallpa?</sentence>
+    </text>
+    <text id="30.52">
+        <sentence lang="shp">¿Jáhuetii copíarin min chitónti quehuéaa?</sentence>
+        <sentence lang="es">¿Qué precio tiene la *pampanilla que has bordado?</sentence>
+    </text>
+    <text id="30.53">
+        <sentence lang="shp">¿Jáhuetio áni jahuen huíshpo réraarin?</sentence>
+        <sentence lang="es">¿De qué tamaño es el corte de su pierna? </sentence>
+    </text>
+    <text id="30.54">
+        <sentence lang="shp">¿Jáhuetio nas̈hbárin ja min papán bená nóntiaa?</sentence>
+        <sentence lang="es">¿De qué anchura es por dentro la canoa nueva que tu papá hizo?</sentence>
+    </text>
+    <text id="30.55">
+        <sentence lang="shp">¿Jáhuetio nashbáqui min nonoquin ián shítacato?</sentence>
+        <sentence lang="es">¿Hasta qué anchura cruzaste la *cocha al nadar?</sentence>
+    </text>
+    <text id="30.56">
+        <sentence lang="shp">¿jain ábion jéne meran cáaqui jáhuetio nemín iqui?</sentence>
+        <sentence lang="es">¿Qué profundidad es el lugar donde se cayó el avíón?</sentence>
+    </text>
+    <text id="30.57">
+        <sentence lang="shp">¿Jáhuetio nenquéqui min cons̈hán s̈hátea, epá?</sentence>
+        <sentence lang="es">Tío, ¿de qué largo has cortado la maderá?</sentence>
+    </text>
+    <text id="30.58">
+        <sentence lang="shp">¿Nénoashqui min jema jáhuetio ochó íqui?</sentence>
+        <sentence lang="es">Desde aquí ¿a qué distancia está tu pueblo?</sentence>
+    </text>
+    <text id="30.59">
+        <sentence lang="shp">¿Jáhuetio queyá áni huapóroqui min óina iqui?</sentence>
+        <sentence lang="es">¿A qué altura has visto el vapor grande?</sentence>
+    </text>
+    <text id="30.60">
+        <sentence lang="shp">¿Papán ronón ehua méraaqui jáhuetio rastón icá</sentence>
+        <sentence lang="es">La boa que papá vió ¿de qué grosor era?</sentence>
+    </text>
+    <text id="30.61">
+        <sentence lang="shp">Jaímashoco ea yóihue</sentence>
+        <sentence lang="es">Dígamelo muy despacio</sentence>
+    </text>
+    <text id="30.62">
+        <sentence lang="shp">Jaín íquetian, ishtón jonón quénahue</sentence>
+        <sentence lang="es">Si está allí, llámalo para que venga pronto</sentence>
+    </text>
+    <text id="30.63">
+        <sentence lang="shp">Jáiaoara non huapóro nócoa iqui</sentence>
+        <sentence lang="es">Allí encontramos una motonave</sentence>
+    </text>
+    <text id="30.64">
+        <sentence lang="shp">Jáinoas̈ha joá iqui jahuen pátoron</sentence>
+        <sentence lang="es">Desde allí vino su patrón</sentence>
+    </text>
+    <text id="30.65">
+        <sentence lang="shp">Jaíns̈honra min sotánti iqui</sentence>
+        <sentence lang="es">De allí vas a espiarlo</sentence>
+    </text>
+    <text id="30.66">
+        <sentence lang="shp">Cáchio cáquetianra jóni inábaon yátana iqui. Jáinoash ja jóni saíica iqui</sentence>
+        <sentence lang="es">Un hombre que fue al monte fue capturado por salvajes. Entonces el hombre gritó</sentence>
+    </text>
+    <text id="30.67">
+        <sentence lang="shp">¿Miaqui jáhueranoas̈h joá? —aquin acára jains̈hon en yóia iqui</sentence>
+        <sentence lang="es">¿De dónde has venido? Entonces yo lo contesté</sentence>
+    </text>
+    <text id="30.68">
+        <sentence lang="shp">Jóno bíchi, yáhua bichi，jáinoas̈h huestíora íno bichi, jabo boí，ea icá riqui</sentence>
+        <sentence lang="es">Eso me sucedió cuando yo llevaba pieles de *sajino, de *huangana, y una piel de *tigre</sentence>
+    </text>
+    <text id="30.69">
+        <sentence lang="shp">Cáshibaonronqui ahuá réteai, jahuen jamá tánas̈hon</sentence>
+        <sentence lang="es">Dicen que los *cashibo matan a la *sachavaca siguiendo sus huellas</sentence>
+    </text>
+    <text id="30.70">
+        <sentence lang="shp">En róno jámatabira ea natéshamaque</sentence>
+        <sentence lang="es">Aunque pisé una culebra, no me mordió</sentence>
+    </text>
+    <text id="30.71">
+        <sentence lang="shp">Piróta jamáquetianra jahuen báque ésteque</sentence>
+        <sentence lang="es">La barriga de su hijito se hinchó porque pateó la pelota que estaba *cutipada</sentence>
+    </text>
+    <text id="30.72">
+        <sentence lang="shp">Pápa ós̈haquetianra báque yóitiman átsas̈heati jampásque</sentence>
+        <sentence lang="es">Mientras que papá dormía, un niño malcriado arrojó *masato de yuca en su boca</sentence>
+    </text>
+    <text id="30.73">
+        <sentence lang="shp">Cancámanra ea jampéque</sentence>
+        <sentence lang="es">La piña me irritó la lengua</sentence>
+    </text>
+    <text id="30.74">
+        <sentence lang="shp">Asócaro jampócasquinra táshires en pápa jampóque</sentence>
+        <sentence lang="es">Puse sal en la boca de papá por querer poner un puñado de azúcar</sentence>
+    </text>
+    <text id="30.75">
+        <sentence lang="shp">jancósh</sentence>
+        <sentence lang="es">fuerte de voz</sentence>
+    </text>
+    <text id="30.76">
+        <sentence lang="shp">janchínti</sentence>
+        <sentence lang="es">inclinar la boca abierta de un bidón hacia</sentence>
+    </text>
+    <text id="30.77">
+        <sentence lang="shp">Ronín jánaronqui chíibires iqui</sentence>
+        <sentence lang="es">Dicen que la lengua de la *yacumama es puro fuego</sentence>
+    </text>
+    <text id="30.78">
+        <sentence lang="shp">Jéne benónronqui jánaca quéotai</sentence>
+        <sentence lang="es">Dicen que cuando canta el manacaraco anuncia que habrá creciente</sentence>
+    </text>
+    <text id="30.79">
+        <sentence lang="shp">Nato báquera jóicoma iqui, jánataponhoma icas̈h</sentence>
+        <sentence lang="es">Este niño no habla bien porque no tiene la parte jánatapon de la lengua</sentence>
+    </text>
+    <text id="30.80">
+        <sentence lang="shp">Bestéti bes̈hónbira en jaínribi moa jánaque jahuen íbo yóashiaitían</sentence>
+        <sentence lang="es">Traje las tijeras y a propósito las he devuelto a su lugar porque su dueño no las quiere prestar</sentence>
+    </text>
+    <text id="30.81">
+        <sentence lang="shp">Jáneoma íquetianra nato báque rócotoron jáne ménique</sentence>
+        <sentence lang="es">Ya que este niño no tenía nombre, el doctor le puso uno</sentence>
+    </text>
+    <text id="30.82">
+        <sentence lang="shp">Nocon jánecon riqui Senéncopi</sentence>
+        <sentence lang="es">Mi nombre en conibo es Senéncopi</sentence>
+    </text>
+    <text id="30.83">
+        <sentence lang="shp">Nocon jánetequira en onányamaque, ea báquetianbi nocon ánibo moa máhuata iquetian</sentence>
+        <sentence lang="es">No sé mi apellido, porque mis padres murieron cuando yo era niñito</sentence>
+    </text>
+    <text id="30.84">
+        <sentence lang="shp">Nocon papánra jahuen huetsán janén ea jáneque</sentence>
+        <sentence lang="es">Mi padre me puso el nombre de su hermano</sentence>
+    </text>
+    <text id="30.85">
+        <sentence lang="shp">Non máhuatabo jánequetianra noa yamé quéqueati iqui</sentence>
+        <sentence lang="es">Sí mencionamos a algúa muerto por su nombre, tendremos pesadilla en la noche</sentence>
+    </text>
+    <text id="30.86">
+        <sentence lang="shp">Nato náhuaaainbora nocon huetsán janén janéque, jacónira jáne íquetian</sentence>
+        <sentence lang="es">Esta mujer mestiza se puso el nombre de mi hermana, porque le pareció bonito</sentence>
+    </text>
+    <text id="30.87">
+        <sentence lang="shp">Moátianronqui jonínqui jahuen ahuín janínqui nés̈has̈hon, jahuen íbo rétemanique</sentence>
+        <sentence lang="es">Cuentan que en la antigüedad un hombre amarro a su esposa a un palo santo y dejó que las hormigas la picaran hasta matarla</sentence>
+    </text>
+    <text id="30.88">
+        <sentence lang="shp">Huestíora báqueronqui jániman técas̈hon rétenique</sentence>
+        <sentence lang="es">Cuentan que cierto niño murió por las picaduras de las tangaranas</sentence>
+    </text>
+    <text id="30.89">
+        <sentence lang="shp">Moara huái óroquin janquénhaque</sentence>
+        <sentence lang="es">Ya terminó de cultivar la chacra</sentence>
+    </text>
+    <text id="30.90">
+        <sentence lang="shp">Moara s̈hóbo janquénhaque</sentence>
+        <sentence lang="es">Ya terminó de hacer la casa</sentence>
+    </text>
+    <text id="30.91">
+        <sentence lang="shp">Moara jahuén tée janquénhaque</sentence>
+        <sentence lang="es">Ya terminó su trabajo</sentence>
+    </text>
+    <text id="30.92">
+        <sentence lang="shp">Moara s̈hóbo janquénque</sentence>
+        <sentence lang="es">Ya está terminada la casa</sentence>
+    </text>
+    <text id="30.93">
+        <sentence lang="shp">Nato jónironqui jánso iqui; ja icónhayamacanhue</sentence>
+        <sentence lang="es">Dicen que este hombre es mentiroso; no le crean</sentence>
+    </text>
+    <text id="30.94">
+        <sentence lang="shp">Nocon epánra jahuen jánsobi icónhaque</sentence>
+        <sentence lang="es">Mi tío paterno se engañó a sí mismo; es decir, creyó en su propia mentira</sentence>
+    </text>
+    <text id="30.95">
+        <sentence lang="shp">Jahuen jánso copibira jóni cáraboso meran níacanque</sentence>
+        <sentence lang="es">Por su propia calumnia metieron a un hombre en el calabozo</sentence>
+    </text>
+    <text id="30.96">
+        <sentence lang="shp">Jánso íquetianra nato jóni cáraboso meran níacanque</sentence>
+        <sentence lang="es">Por ser calumniador, metieron a este hombre en el calabozo</sentence>
+    </text>
+    <text id="30.97">
+        <sentence lang="shp">Nocon báque yóyoicama iquénbira nato jóni jánsoque</sentence>
+        <sentence lang="es">Mi hijo no había dicho nada, pero este hombre mintió inventándole cosas</sentence>
+    </text>
+    <text id="30.98">
+        <sentence lang="shp">Equira jánsocanai</sentence>
+        <sentence lang="es">Me están calumniando</sentence>
+    </text>
+    <text id="30.99">
+        <sentence lang="shp">Jánshos̈hon s̈hóma áyamaira báque isínque</sentence>
+        <sentence lang="es">Por tener afta, la criatura no mamaba y se enfermó</sentence>
+    </text>
+    <text id="31.0">
+        <sentence lang="shp">Jans̈hós̈hponin náaqui jisónquetianronqui noa mapón chés̈hati iqui</sentence>
+        <sentence lang="es">Dicen que cuando orinamos sobre el nido de la hormiga jans̈hós̈hpo, nos puede dar dolor de cabeza</sentence>
+    </text>
+    <text id="31.1">
+        <sentence lang="shp">Nato báritiabichora ea néno ícai téeti; jáinoas̈ha moa ea jáquiribi nocon jemánco cái</sentence>
+        <sentence lang="es">Sólo este año voy a trabajar acá; después volveré a mi comunidad</sentence>
+    </text>
+    <text id="31.2">
+        <sentence lang="shp">níticoma jascábi pícota</sentence>
+        <sentence lang="es">cojo desde nacimiento</sentence>
+    </text>
+    <text id="31.3">
+        <sentence lang="shp">Méeyamahue — aquin en acá iqui; jascáquetian ea yóia iqui: Miara íboma iqui 一aquin</sentence>
+        <sentence lang="es">Le dije: —No lo toques. Entonces él me dijo: - Tú no eres el dueño</sentence>
+    </text>
+    <text id="31.4">
+        <sentence lang="shp">Pátoroninra noa téeti bocasquin coráca yócatia. Jascáquetianra corácanin quéenshonyamaque</sentence>
+        <sentence lang="es">El patrón nos quiso llevar al trabajo y le pidió permiso al curaca; sin embargo, él no se dejó persuadir</sentence>
+    </text>
+    <text id="31.5">
+        <sentence lang="shp">Jáscarabora ea íque</sentence>
+        <sentence lang="es">Tales cosas me pasaron</sentence>
+    </text>
+    <text id="31.6">
+        <sentence lang="shp">En óinara jáscara icá iqui; rámara jáhuequescabira iqui</sentence>
+        <sentence lang="es">Cuando lo vi, era así; no sé cómo será ahora</sentence>
+    </text>
+    <text id="31.7">
+        <sentence lang="shp">Nocon epán nóntira áni iqui jáscara jisáribira nocon pápana iqui</sentence>
+        <sentence lang="es">La canoa de mi tío paterno es grande y la de mi papá, también</sentence>
+    </text>
+    <text id="31.8">
+        <sentence lang="shp">Jáscara jói jato yóihue</sentence>
+        <sentence lang="es">Dales tal mensaje</sentence>
+    </text>
+    <text id="31.9">
+        <sentence lang="shp">En mia onámaaquescaaquin jascáas̈hon ahue</sentence>
+        <sentence lang="es">Como te enseñé, así hazlo</sentence>
+    </text>
+    <text id="31.10">
+        <sentence lang="shp">Jáscatas̈h cáara ea yóicanque. Enra óinamaribi iqui</sentence>
+        <sentence lang="es">Me dijeron que así se había ido. Yo tampoco lo vi irse</sentence>
+    </text>
+    <text id="31.11">
+        <sentence lang="shp">Chipónquias̈h jóquetianra jóni yatáncana iqui. Játian jato yóia iqui: Ea méeyamacanhue —aquin. Játian jénecana iqui. Jáscatas̈h moa jóni cáa iqui jáquiribi</sentence>
+        <sentence lang="es">Un hombre vino de río abajo y lo detuvieron; pero les dijo que lo soltaran y ellos luego lo hicieron. Entonces se fue de vuelta a su comunidad</sentence>   
+    </text>
+    <text id="31.12">
+        <sentence lang="shp"></sentence>
+        <sentence lang="es"></sentence>
     </text>
 </parallel>
 
