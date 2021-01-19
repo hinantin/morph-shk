@@ -9453,8 +9453,412 @@
         <sentence lang="es">Disparé la flecha contra el *paujil pero erré</sentence>
     </text>
     <text id="36.0">
-        <sentence lang="shp">Noa mé |cho iquetian osáncanaronqui sinátima iqui</sentence>
+        <sentence lang="shp">Noa mécho iquetian osáncanaronqui sinátima iqui</sentence>
         <sentence lang="es">Dicen que si alguien se ríe de nosotros porque somos inexpertos, no debemos enojarnos</sentence>
+    </text>
+    <text id="36.1">
+        <sentence lang="shp">Papánra jahuen báque mécho ímaque jahuéqui ámacashamas̈hon</sentence>
+        <sentence lang="es">Este muchacho no sabe hacer bien las cosas porque su papá nunca le exigió que trabajara</sentence>
+    </text>
+    <text id="36.2">
+        <sentence lang="shp">Moátianra nato jóni nóntiati onán icátiai; rámara moa méchoque bási áyamash</sentence>
+        <sentence lang="es">Antes，este hombre era experto en hacer canoas, pero ahora ha perdido la costumbre por no haber practicado durante mucho tiempo</sentence>
+    </text>
+    <text id="36.3">
+        <sentence lang="shp">Titánra báque mechóque</sentence>
+        <sentence lang="es">La madre lavó las manos de su hijo</sentence>
+    </text>
+    <text id="36.4">
+        <sentence lang="shp">Jáscatasha báque quíshpimeeque</sentence>
+        <sentence lang="es">Así el niño se salvó a sí mismo</sentence>
+    </text>
+    <text id="36.5">
+        <sentence lang="shp">Títara jahuen pocónco méecaaque, tóoyara íbirai is̈hon onános̈h</sentence>
+        <sentence lang="es">La mamá se tocó la barriga para saber sí estaba encinta</sentence>
+    </text>
+    <text id="36.6">
+        <sentence lang="shp">Jáhuebi méeyamahue; noara huétsa jonín s̈hobón iqui</sentence>
+        <sentence lang="es">No toques nada; estamos en casa ajena</sentence>
+    </text>
+    <text id="36.7">
+        <sentence lang="shp">Ea méeyamahuepanon</sentence>
+        <sentence lang="es">Por favor no me hagas nada</sentence>
+    </text>
+    <text id="36.8">
+        <sentence lang="shp">Yobénos̈hon ónanai jónira masá méeti ónisai jatibi jahuequiati, átipanyamas̈h jacopíra yobeti atipa yamaque</sentence>
+        <sentence lang="es">El aprendiz se entristece al privarse de comida por mucho tiempo y sin embargo no puede ser brujo</sentence>
+    </text>
+    <text id="36.9">
+        <sentence lang="shp">Méhuemeara nocon epán sócota jóno réteque huetsánra huitás̈h qui natés̈hque</sentence>
+        <sentence lang="es">Mi tío mató seis sajinos en una colpa, y uno de ellos lo mordió en la pierna</sentence>
+    </text>
+    <text id="36.10">
+        <sentence lang="shp">Nato báquera méhues̈heetaí, jahuen mentsís nenquéira icas̈h</sentence>
+        <sentence lang="es">Este niño se araña con la mano porque sus uñas son muy largas</sentence>
+    </text>
+    <text id="36.11">
+        <sentence lang="shp">Yómetsonínra nato báque coríqui méhueque</sentence>
+        <sentence lang="es">Un ladrón le quitó todo el dinero que el niño tenía en la mano</sentence>
+    </text>
+    <text id="36.12">
+        <sentence lang="shp">Chés̈heincanronqui jato ás̈heaa iqui, méi betan mapó méscoti</sentence>
+        <sentence lang="es">Dicen que el *Inca Prieto enseñó a la gente cómo mezclar corteza de apacharama con greda</sentence>
+    </text>
+    <text id="36.13">
+        <sentence lang="shp">Mapó meinconama iquénbi chomoaara básiamai tóetai</sentence>
+        <sentence lang="es">Cuando se hace una tinaja de greda que no está bien mezclada con apacharama, no demora en quebrarse</sentence>
+    </text>
+    <text id="36.14">
+        <sentence lang="shp">Mapóronqui ishonra, nato aínbaon mánores meíque, yamé íquetian</sentence>
+        <sentence lang="es">Pensando que era greda esta mujer metió la mano en el fango porque estaba muy oscuro</sentence>
+    </text>
+    <text id="36.15">
+        <sentence lang="shp">Jara chíican raeménooque</sentence>
+        <sentence lang="es">Ella se ha quemado la mano en el fuego</sentence>
+    </text>
+    <text id="36.16">
+        <sentence lang="shp">Nato bain cás̈h mémio bái icátonin catánhue; ján riqui min pápa</sentence>
+        <sentence lang="es">Yendo por este camino, entras por la izquierda: por allí e^á tu padre</sentence>
+    </text>
+    <text id="36.17">
+        <sentence lang="shp">Nocon mémio johué miara yatánaque</sentence>
+        <sentence lang="es">Ponte a mi izquierda para que no te agarre</sentence>
+    </text>
+    <text id="36.18">
+        <sentence lang="shp">Páro memiora motóro jíquique</sentence>
+        <sentence lang="es">A la margen izquierda del río se hundió el *motor</sentence>
+    </text>
+    <text id="36.19">
+        <sentence lang="shp">S̈hobón caméntanhue</sentence>
+        <sentence lang="es">Anda rápidamente a la casa</sentence>
+    </text>
+    <text id="36.20">
+        <sentence lang="shp">Moa píshta icáinra ea joménque, jahuéquiatibo beí</sentence>
+        <sentence lang="es">Como ya se acerca la fiesta, de antemano vine trayendo víveres</sentence>
+    </text>
+    <text id="36.21">
+        <sentence lang="shp">Báquera ménates̈hmeetaí</sentence>
+        <sentence lang="es">El niño se está mordiendo la mano</sentence>
+    </text>
+    <text id="36.22">
+        <sentence lang="shp">Jahuen huetsánbira báque menateshaí</sentence>
+        <sentence lang="es">Su mismo hermano le está mordiendo la mano al niño</sentence>
+    </text>
+    <text id="36.23">
+        <sentence lang="shp">Nocon nonón mencó iquénbíra nocon papán pátoronin bóque</sentence>
+        <sentence lang="es">El patrón de papá se llevó a mi pata ponedora</sentence>
+    </text>
+    <text id="36.24">
+        <sentence lang="shp">Atapa mencocanra píamai, moa ísiman yátana is̈hon</sentence>
+        <sentence lang="es">La gallina clueca no quiere comer porque le dio la peste</sentence>
+    </text>
+    <text id="36.25">
+        <sentence lang="shp">Titán jahuen átapa mencómaquenbira ochítinin jahuen báchibo tóshamaque</sentence>
+        <sentence lang="es">Mamá puso su gallina a ovar，pero el perro le hizo quebrar sus huevos</sentence>
+    </text>
+    <text id="36.26">
+        <sentence lang="shp">Titán quentí ménconara cochin páque, íshtoi caquín</sentence>
+        <sentence lang="es">Al pasar corriendo, el chancho tumbó la olla que mamá había puesto boca abajo</sentence>
+    </text>
+    <text id="36.27">
+        <sentence lang="shp">Nónti méncota icáincora, yáhua ina iqui, cáchioquea beá</sentence>
+        <sentence lang="es">En el lugar donde la canoa está puesta boca abajo hay una cría de *sajino traída del *monte</sentence>
+    </text>
+    <text id="36.28">
+        <sentence lang="shp">Ishtoas̈ha jóni mencóque moa pás̈hquinas̈h</sentence>
+        <sentence lang="es">El hombre cansado se puso boca abajo</sentence>
+    </text>
+    <text id="36.29">
+        <sentence lang="shp">Atapa méncotara ahuápanin yamé boánque</sentence>
+        <sentence lang="es">Anoche la gallina que ovaba fue llevada por el *tigrillo</sentence>
+    </text>
+    <text id="36.30">
+        <sentence lang="shp">Rímameas̈ha jóni móromenes̈hetin ménes̈heeya jóque; jáscara iquénra ínca shináncanque</sentence>
+        <sentence lang="es">Un hombre vino de Lima llevando puestas pulseras de chaquira y pensaron que era el *Inca</sentence>
+    </text>
+    <text id="36.31">
+        <sentence lang="shp">Chíchica ménicanon is̈hon jato, yóiabira tsónbi pápa méníamaque; játianra moa janbís̈h ménicaaque</sentence>
+        <sentence lang="es">Papá insistía en que le dieran el cuchillo pero nadie se lo dio, y por último lo tomó él mismo</sentence>
+    </text>
+    <text id="36.32">
+        <sentence lang="shp">Menín aínbo riqui quené onán</sentence>
+        <sentence lang="es">Una mujer que es artista sabe hacer diseños</sentence>
+    </text>
+    <text id="36.33">
+        <sentence lang="shp">Ichaaquin huastén raóns̈honra, titán jahuen báque menínhaque</sentence>
+        <sentence lang="es">tratándola muchas veces con *piripiri, la mamá hizo artista a su hija</sentence>
+    </text>
+    <text id="36.34">
+        <sentence lang="shp">Rámara ea moa menínque huétsabaon jáhuéqui acá máhuaash</sentence>
+        <sentence lang="es">Por fin me volví artista, copiando lo que otros hacen</sentence>
+    </text>
+    <text id="36.35">
+        <sentence lang="shp">Pátoroninra jabuen jónibo coríqui ménique, s̈honón téecanon is̈hon</sentence>
+        <sentence lang="es">El patrón dio dinero como adelanto a sus peones para que trabajaran cortando *lupuna</sentence>
+    </text>
+    <text id="36.36">
+        <sentence lang="shp">Jáhuenama iquénbira nato aínbo chopán ménitai; rámara jahuen íbo sínatai</sentence>
+        <sentence lang="es">Esta mujer está distribuyendo ropa que no es suya; es posible que su dueño se enoje</sentence>
+    </text>
+    <text id="36.37">
+        <sentence lang="shp">Moa huái menó íquénbi átsa bánayamaara moa náhuea iqui</sentence>
+        <sentence lang="es">Aunque la chacra ya estaba quemada, no sembraron la yuca y se hizo *purma</sentence>
+    </text>
+    <text id="36.38">
+        <sentence lang="shp">Huái ménoquinra manáns̈hahue píchica bicánque, huétsa moa méshota</sentence>
+        <sentence lang="es">Al quemar la chacra, consiguieron cinco *motelos, uno de ellos ya carbonizado</sentence>
+    </text>
+    <text id="36.39">
+        <sentence lang="shp">Nocon s̈hóbora quéyo ménoque nocon ráhuican</sentence>
+        <sentence lang="es">Mi enemigo incendió y arrasó completamente mi casa</sentence>
+    </text>
+    <text id="36.40">
+        <sentence lang="shp">Janbísh ménotara jóni óspitarain bocánque</sentence>
+        <sentence lang="es">El hombre que se quemó fue llevado al hospital</sentence>
+    </text>
+    <text id="36.41">
+        <sentence lang="shp">Jóni mentsís nenquéra Cacónco nocóque, néte máyaí jóai</sentence>
+        <sentence lang="es">Un hombre de uñas largas, que venía circunnavegando el mundo, llegó a *Caco</sentence>
+    </text>
+    <text id="36.42">
+        <sentence lang="shp">Huestíora jónira yómetsoquetian jahuen táementsis tsecácanque</sentence>
+        <sentence lang="es">A cierto Hombre que había robado， le arrancaron las uñas del pie</sentence>
+    </text>
+    <text id="36.43">
+        <sentence lang="shp">Nato aínbora meósoti sáhueisma iqui; jácopira rábinai</sentence>
+        <sentence lang="es">Esta mujer nunca usa anillo y por eso siente vergüenza</sentence>
+    </text>
+    <text id="36.44">
+        <sentence lang="shp">Non as̈hé riqui, yósibaon píainco báque icas̈h mépitima</sentence>
+        <sentence lang="es">Es nuestra costumbre que los niños no coman junto con los hombres adultos</sentence>
+    </text>
+    <text id="36.45">
+        <sentence lang="shp">Manán mepiaincorsa óro jáque</sentence>
+        <sentence lang="es">Donde termina la bajada del cerro hay oro</sentence>
+    </text>
+    <text id="36.46">
+        <sentence lang="shp">Jonínra ea máshi mepóque en asócaro yócata; jacóma shinánya is̈hon</sentence>
+        <sentence lang="es">Un hombre malo me dio un puñado de arena en la mano cuando le pedí azúcar</sentence>
+    </text>
+    <text id="36.47">
+        <sentence lang="shp">Jahuen mequémapoquira nato báque binan técaque, yatánquetian</sentence>
+        <sentence lang="es">La avispa le picó al niño en el dedo pulgar cuando la agarró</sentence>
+    </text>
+    <text id="36.48">
+        <sentence lang="shp">Nato jónira mequémebi nenquébo iqui, jascábi picota icas̈h</sentence>
+        <sentence lang="es">Este hombre tiene dedos largos de nacimiento</sentence>
+    </text>
+    <text id="36.49">
+        <sentence lang="shp">Meqúémpeca shánocan náteshara jóni mahuáque</sentence>
+        <sentence lang="es">Un hombre murió cuando un jergón le mordió en el dorso de la mano</sentence>
+    </text>
+    <text id="36.50">
+        <sentence lang="shp">Nocon mécayaó mequén jaíns̈hon nocon mémioquea mequénra óinque</sentence>
+        <sentence lang="es">Me miró la mano derecha y luego la izquierda</sentence>
+    </text>
+    <text id="36.51">
+        <sentence lang="shp">Yómetso jónira mequén s̈hátenaancanque, coríqui ícha bíquetian</sentence>
+        <sentence lang="es">Al ladrón le cortaron la mano por haber robado mucho dinero</sentence>
+    </text>
+    <text id="36.52">
+        <sentence lang="shp">Jóninra jahuen rayos mequén tóncoas̈hon tímaque paéns̈hon</sentence>
+        <sentence lang="es">Un hombre borracho empuñó la mano y dio un puñetazo a su suegro</sentence>
+    </text>
+    <text id="36.53">
+        <sentence lang="shp">Jatiribi jóniboronqui mequénapas̈h huáchoshoco iqui</sentence>
+        <sentence lang="es">Dicen que algunas personas tienen las palmas muy suaves</sentence>
+    </text>
+    <text id="36.54">
+        <sentence lang="shp">Oroaitianra jóni ronón natés̈hque jahuen mequénchinitain</sentence>
+        <sentence lang="es">Mientras cultivaba el hombre fue mordido por una culebra en el dedo meñique</sentence>
+    </text>
+    <text id="36.55">
+        <sentence lang="shp">Quirínco baquera, mequéntechapain jahuen Dchítíninbi natéshque</sentence>
+        <sentence lang="es">Un gringuito fue mordido por su propio perro en el pliegue de su dedo</sentence>
+    </text>
+    <text id="36.56">
+        <sentence lang="shp">Méqueshoyara sbánbo jisáribi iqui; icáshbi jahuen jína nenquéma iqui</sentence>
+        <sentence lang="es">La salamandra es muy parecida a una *lagartija pero de cola corta</sentence>
+    </text>
+    <text id="36.57">
+        <sentence lang="shp">Cacónconía íúnbora méqueshoyan réteque</sentence>
+        <sentence lang="es">Una mujer de *Caco fue muerta por una salamanca</sentence>
+    </text>
+    <text id="36.58">
+        <sentence lang="shp">Ochítinin natés̈hquetianra nato báque rócotoron mequés̈hque</sentence>
+        <sentence lang="es">Cuando un perro mordió los dedos de este niño, el doctor se los cosió</sentence>
+    </text>
+    <text id="36.59">
+        <sentence lang="shp">Enra méques̈hon asócaro ácai yámaquetian</sentence>
+        <sentence lang="es">Estoy economizando azúcar porque hay poca</sentence>
+    </text>
+    <text id="36.60">
+        <sentence lang="shp">Asócaro titán méquea iquénbíra, báque yoitiman qué- yonaanque</sentence>
+        <sentence lang="es">El niño desobediente terminó con todo el azúcar que la m a m á celosamente había guardado</sentence>
+    </text>
+    <text id="36.61">
+        <sentence lang="shp">Nato jonínra jatíbitian jahuen jahuéquibo méqueai</sentence>
+        <sentence lang="es">Este hombre siempre mantiene sus cosas en buenas condiciones</sentence>
+    </text>
+    <text id="36.62">
+        <sentence lang="shp">Sarámpinin báque íquetianra titán jahuen báque méqueai</sentence>
+        <sentence lang="es">La mamá cuida celosamente a su hijo cuando tiene sarampión</sentence>
+    </text>
+    <text id="36.63">
+        <sentence lang="shp">Jonínra jahuen báque picóquetian méquequin shdno sháteyamai cópinaquetian</sentence>
+        <sentence lang="es">Cuando nace un hijo, el hombre lo protege y no corta *lupuna por temor de *cutipar a su hijíto</sentence>
+    </text>
+    <text id="36.64">
+        <sentence lang="shp">Píti bénaira noa méquetai</sentence>
+        <sentence lang="es">Cuando buscamos *mitayo, nos volvemos astutos</sentence>
+    </text>
+    <text id="36.65">
+        <sentence lang="shp">Méchatihuaste s̈héaas̈honqui mequéti iqui</sentence>
+        <sentence lang="es">Dicen que cuando uno toma *piripiri para ser buen pescador, debe hacer ritos de abstinencia</sentence>
+    </text>
+    <text id="36.66">
+        <sentence lang="shp">Nato jónira rabé néte méquetai</sentence>
+        <sentence lang="es">Durante dos días este hombre está ayunando en el mosquitero</sentence>
+    </text>
+    <text id="36.67">
+        <sentence lang="shp">Méramaatas̈ha aínbo jonéque</sentence>
+        <sentence lang="es">Al ser descubierta en adulterio, la mujer se escondió</sentence>
+    </text>
+    <text id="36.68">
+        <sentence lang="shp">Aínbo méramaatara jahuen benén pótaque</sentence>
+        <sentence lang="es">La mujer descubierta,en adulterio fue repudiada por su esposo</sentence>
+    </text>
+    <text id="36.69">
+        <sentence lang="shp">Méramaatas̈ha jóni jabáque</sentence>
+        <sentence lang="es">Al ser descubierto en adulterio, el hombre huyó</sentence>
+    </text>
+    <text id="36.70">
+        <sentence lang="shp">Nocon huetsán rícara bórosa meran iqui</sentence>
+        <sentence lang="es">La *tarrafa de mi hermano está dentro de la bolsa</sentence>
+    </text>
+    <text id="36.71">
+        <sentence lang="shp">S̈hóbo meran jíquiquetianra yómetso yatáncanque</sentence>
+        <sentence lang="es">Agarraron al ladrón cuando entró a la casa</sentence>
+    </text>
+    <text id="36.72">
+        <sentence lang="shp">Pátoronin tapánra S̈hahuánya táe meran íqui</sentence>
+        <sentence lang="es">La balsa del patrón está dentro de la quebrada *Shahuaya</sentence>
+    </text>
+    <text id="36.73">
+        <sentence lang="shp">Empari méraquetianra, nocon huetsán róno mérashocoque</sentence>
+        <sentence lang="es">Cuando yo ya había hallado a la víbora, mi hermano también la vió</sentence>
+    </text>
+    <text id="36.74">
+        <sentence lang="shp">Ochoqueabira nócon pápa jóaltian en méraque</sentence>
+        <sentence lang="es">Desde lejos alcancé a divisar a mi papá que venía</sentence>
+    </text>
+    <text id="36.75">
+        <sentence lang="shp">Moa mera iquetian níncatas̈ha ea ratéque</sentence>
+        <sentence lang="es">Al oír que ya había sido tallado, me quedé asombrado</sentence>
+    </text>
+    <text id="36.76">
+        <sentence lang="shp">Nato aínbaonra jahuen benén mérati bachínque</sentence>
+        <sentence lang="es">Esta mujer tiró de los cabellos de la amante de su esposo</sentence>
+    </text>
+    <text id="36.77">
+        <sentence lang="shp">Mérati caquénbi tsón bíamaara noa jóque</sentence>
+        <sentence lang="es">Fuimos a visitarlos pero nadie nos recibió y nos regresamos</sentence>
+    </text>
+    <text id="36.78">
+        <sentence lang="shp">Meráyan tárironqui inín iqui, béroyoshinbo betan yóyo iti copi</sentence>
+        <sentence lang="es">Dicen que las *cushmas mágicas de los brujos son perfumadas para que así puedan hablar con ios espíritus</sentence>
+    </text>
+    <text id="36.79">
+        <sentence lang="shp">Asócaro betan táshi mescóta iquénbira onányamas̈hon nato baquén s̈héaque</sentence>
+        <sentence lang="es">El niño tragó el azúcar mezclado con sal sin darse cuenta</sentence>
+    </text>
+    <text id="36.80">
+        <sentence lang="shp">Píshtatianra mescó jónibo márachainbaque</sentence>
+        <sentence lang="es">Ayer diversas personas marcharon en la fiesta</sentence>
+    </text>
+    <text id="36.81">
+        <sentence lang="shp">Pítibetenya yóchi méscoara no¿ iqui</sentence>
+        <sentence lang="es">La mazamorra de pescado mezclada con ají es rica</sentence>
+    </text>
+    <text id="36.82">
+        <sentence lang="shp">Mapó betan méi méscos̈hon chómoaaronqui bási icai</sentence>
+        <sentence lang="es">Dicen que una tinaja hecha de greda mezclada con *apacharama dura mucho tiempo</sentence>
+    </text>
+    <text id="36.83">
+        <sentence lang="shp">S̈hénira moa ompás̈h betan mescóque</sentence>
+        <sentence lang="es">Por fin el aceite se mezcló con el agua</sentence>
+    </text>
+    <text id="36.84">
+        <sentence lang="shp">Rámara cónibo jónibo moa cámpabo betan méscotai</sentence>
+        <sentence lang="es">Ahora los *conibo se mezclan con los *campa</sentence>
+    </text>
+    <text id="36.85">
+        <sentence lang="shp">Josbín joé betan jós̈ho joéra méscoti metsáshaman iqui</sentence>
+        <sentence lang="es">Es muy bonito cuando la luz roja se transforma en blanca y viceversa</sentence>
+    </text>
+    <text id="36.86">
+        <sentence lang="shp">Náto jónira ísinas̈h mesénbinaque</sentence>
+        <sentence lang="es">Al enfermarse al hombre, se le encogió la mano</sentence>
+    </text>
+    <text id="36.87">
+        <sentence lang="shp">Rabé mesó s̈héqui bérora ea jonín ménique</sentence>
+        <sentence lang="es">Un hombre me dio dos puñados de maíz</sentence>
+    </text>
+    <text id="36.88">
+        <sentence lang="shp">Ja báquebora mésquitas̈h besquitash icanai</sentence>
+        <sentence lang="es">Los niños están manchándose las manos y la cara</sentence>
+    </text>
+    <text id="36.89">
+        <sentence lang="shp">Méstiira nato aínbo ábionin caí betíque</sentence>
+        <sentence lang="es">Esta mujer cerró sus ojos mientras viajaba en el avión porque tenía miedo</sentence>
+    </text>
+    <text id="36.90">
+        <sentence lang="shp">Báquera huínihuiniai, jihuín néequetian jahuen huetsán shácona méstii paquenaquetian</sentence>
+        <sentence lang="es">El niño está llorando porque su hermano mayor está sacudiendo el árbol en el que se ha subido y tiene miedo de caerse</sentence>
+    </text>
+    <text id="36.91">
+        <sentence lang="shp">Jóni méshaconti shínanira pápashoco jéne meran cáque</sentence>
+        <sentence lang="es">Al tratar de saludar a un hombre, el abuelito se cayó al agua</sentence>
+    </text>
+    <text id="36.92">
+        <sentence lang="shp">Méshi biénaquinra cáchioquea titán íno méraque</sentence>
+        <sentence lang="es">Buscando ramitas secas, mamá se encontró en el *monte con un *tigre</sentence>
+    </text>
+    <text id="36.93">
+        <sentence lang="shp">Báquera bináo técaque méshi ménoaitian</sentence>
+        <sentence lang="es">El niño fue picado por las avispas cuando quemaba las ramas secas</sentence>
+    </text>
+    <text id="36.94">
+        <sentence lang="shp">Nato joníra áni icashbi méshishoco iqui</sentence>
+        <sentence lang="es">Este hombre es alto pero muy delgadio</sentence>
+    </text>
+    <text id="36.95">
+        <sentence lang="shp">Méshipapinra péi píai</sentence>
+        <sentence lang="es">El gusano méshipapi come hojas</sentence>
+    </text>
+    <text id="36.96">
+        <sentence lang="shp">Tian atsa s̈hoira meshóaque</sentence>
+        <sentence lang="es">La yuca que asó mi mamá se quemó</sentence>
+    </text>
+    <text id="36.97">
+        <sentence lang="shp">Casórinan quetés̈honra rabé jóni meshoáque</sentence>
+        <sentence lang="es">Al encenderse la gasolina，carbonizó a dos hombres</sentence>
+    </text>
+    <text id="36.98">
+        <sentence lang="shp">Moa méshotainbira en mia cóma bóteshonque</sentence>
+        <sentence lang="es">Te saqué la *panguana del fuego porque ya estaba por quemarse</sentence>
+    </text>
+    <text id="36.99">
+        <sentence lang="shp">Meshóbira ácai nato aínbaon piquín, yoáati onáma is̈hon</sentence>
+        <sentence lang="es">Esta mujer siempre come quemado porque no sabe cocinar</sentence>
+    </text>
+    <text id="37.0">
+        <sentence lang="shp">Tsácaananas̈ha cáro meshóque</sentence>
+        <sentence lang="es">Dos carros, después de chocarse, se carbonizaron</sentence>
+    </text>
+    <text id="37.1">
+        <sentence lang=""></sentence>
+        <sentence lang=""></sentence>
     </text>
 </parallel>
 
